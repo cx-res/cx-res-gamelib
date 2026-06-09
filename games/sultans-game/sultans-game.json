@@ -1,0 +1,223 @@
+{
+  "name": "sultans-game",
+  "display_name": "Sultan's Game",
+  "app_type": "game",
+  "description": "Survive a mad Sultan's reign in this brutal resource management RPG. Draw a card every seven days and complete its challenge. Make dreadful choices to stay alive: will you die a loyal servant, become a kingslayer, or call down the gods' judgement?",
+  "developers": [
+    "Double Cross"
+  ],
+  "publishers": [
+    "2P Games"
+  ],
+  "franchise": "",
+  "release_date": "2025-03-31",
+  "website": "",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "schinese": "苏丹的游戏",
+    "english": "Sultan's Game",
+    "tchinese": "蘇丹的遊戲",
+    "japanese": "スルタンのゲーム"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Sultan's Game.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Sultan's Game.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "Sultan's Game.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Sultan's Game.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "DoubleCross/SultansGame/SAVEDATA/{64BitSteamID}",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Sultan's Game",
+    "Sultan's Game.x86_64",
+    "Sultan's Game.app",
+    "苏丹的游戏",
+    "蘇丹的遊戲",
+    "スルタンのゲーム"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3117820/81e37cf744f52d7af999e208dfd4c087a1f3db29.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/b9410ce85202476069c5a9958073f0510d40f9f6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/1c8bb6ad1898ced81b0ccec9330c937d0bed1ee1/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/e4397acc8b124c24d4932b0cf9c20d33ab06281f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3117820/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/af7cc2be66d9f1e36d6f7ce1377dd473014b5c50/ss_af7cc2be66d9f1e36d6f7ce1377dd473014b5c50.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/edeba9be4e45628f22a0b6a3d536c62c1483a258/ss_edeba9be4e45628f22a0b6a3d536c62c1483a258.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/d00322ed81ac763784af9635bb9623e67853cc96/ss_d00322ed81ac763784af9635bb9623e67853cc96.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/1dfbf8da330b37653357406d9901ba0dd374fd16/ss_1dfbf8da330b37653357406d9901ba0dd374fd16.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/928166bd37821246e48aed23b774b2f835ff8d46/ss_928166bd37821246e48aed23b774b2f835ff8d46.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/f9ab708f4b2f1ba64b80b8fceed13849afdc0c32/ss_f9ab708f4b2f1ba64b80b8fceed13849afdc0c32.1920x1080.jpg?t=1778739840"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117820/17fddc4cd68e08572f8c303d0f74712abf8b6222/ss_17fddc4cd68e08572f8c303d0f74712abf8b6222.1920x1080.jpg?t=1778739840"
+    }
+  ],
+  "videos": [
+    {
+      "name": "New Update Trailer EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257311467/a29d08720b3ab907cf291a88db8f481c7adfce8d/movie_600x337.jpg?t=1774922694",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/2032540853/f3ac633d4f07d7b3fcc38b81a0837d7bba68fd68/1774883849/dash_h264.mpd?t=1774922694"
+    },
+    {
+      "name": "Story Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257229462/70b0b3c4b6adb88c1d796089eb02c3fd1353663f/movie_600x337.jpg?t=1762850826",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/1451860560/a1d01577846a3d32517ecb4fc72c9c9e38f5d9ad/1762849816/dash_h264.mpd?t=1762850826"
+    },
+    {
+      "name": "The Mirror Visitor",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257190484/8bc91f5e9a7cad9ba2a8b7a4cb1484413f2afbc0/movie_600x337.jpg?t=1756440236",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/554879451/6fb34bf8f8fd2ae8737ebbe3072a138c40e480d3/1756437893/dash_h264.mpd?t=1756440236"
+    },
+    {
+      "name": "Sultan's Game | Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120108/1a767352511ea22624510eaffa19e6ed56f3d41f/movie_600x337.jpg?t=1743390027",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/860311/64778aa33411d60eafbdb19db05461fde42e91d7/1750823812/dash_h264.mpd?t=1743390027"
+    },
+    {
+      "name": "Summer Sale Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257162215/2863c728aac064e86dc73968593601c95bfb9440/movie_600x337.jpg?t=1750999774",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/880063779/92d2464f70c1aa23111bbd867349ef9678aadfe6/1750995209/dash_h264.mpd?t=1750999774"
+    },
+    {
+      "name": "Creating the Sultan's Game - The Musician ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257120140/81d931c7b9010364094d1141d66c8aed629acc21/movie_600x337.jpg?t=1743390030",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/860379/7eb70cf668fadc6543890f1c20b14aebbe63f2c4/1750823819/dash_h264.mpd?t=1743390030"
+    },
+    {
+      "name": "Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257057798/movie.293x165.jpg?t=1727144160",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3117820/760258/bb54dedd3b2b038d0c7419c3c06b8a3486e66bf4/1750823810/dash_h264.mpd?t=1727144160"
+    }
+  ],
+  "metacritic": {
+    "score": 83,
+    "url": "https://www.metacritic.com/game/pc/sultans-game?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 3117820,
+    "store_url": "https://store.steampowered.com/app/3117820/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 92,
+    "review_total": 1256
+  }
+}

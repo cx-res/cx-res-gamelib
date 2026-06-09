@@ -1,0 +1,179 @@
+{
+  "name": "chants-of-sennaar",
+  "display_name": "Chants of Sennaar",
+  "app_type": "game",
+  "description": "In this award-winning puzzle adventure game, play as the Traveler on a quest to reunite the Peoples of the Tower. Observe, listen, and decipher ancient languages in a fascinating universe inspired by the Myth of Babel.",
+  "developers": [
+    "Rundisc"
+  ],
+  "publishers": [
+    "Focus Entertainment"
+  ],
+  "franchise": "",
+  "release_date": "2023-09-05",
+  "website": "https://www.focus-entmt.com/games/chants-of-sennaar",
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "czech",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "巴别塔圣歌"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Chants Of Sennaar.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "journal_0.cos",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "journal_1.cos",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "journal_2.cos",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "places_0.cos",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "places_1.cos",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Rundisc/Chants Of Sennaar/Steam_{64BitSteamID}",
+        "pattern": "places_2.cos",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Chants of Sennaar",
+    "Chants Of Sennaar",
+    "巴别塔圣歌"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1931770/99618001a2111dd020f1fc957c5c47c0d6d5d327.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1931770/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_0461966d2cf288b631165c5e1e00399483bb52c7.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_0c7b55a542bab74ccb3bbab18346c0f68296ebf4.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_adcaa7de0b90bc02a927ec7119f889a0834e8484.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_d194cfba045634d86c99aec5ed7ecbf7270cb8a2.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_8315f825c350f04faba1cba86835d8fbb445191d.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_d3bbb61945d1fdbb2cc54bd09e80d691bd0c8afc.1920x1080.jpg?t=1774006124"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931770/ss_fedaaa90f91644a69a9ff8dfbc7739c18d7cca8a.1920x1080.jpg?t=1774006124"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Chants of Sennaar - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256967855/movie.293x165.jpg?t=1693929330",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1931770/604477/b2da0ffce2d90b501f80e6213e122507a5ca338a/1750741385/dash_h264.mpd?t=1693929330"
+    },
+    {
+      "name": "Chants of Sennaar - Release Date Reveal Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256942086/movie.293x165.jpg?t=1681923815",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1931770/559445/fdaf7d833b38edd65763c42f6002f272a672b543/1750741384/dash_h264.mpd?t=1681923815"
+    },
+    {
+      "name": "Chants of Sennaar - Reveal Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256883028/movie.293x165.jpg?t=1650450496",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1931770/456742/6fa44535519b9153879992382e84ee979d96e71f/1750741373/dash_h264.mpd?t=1650450496"
+    }
+  ],
+  "metacritic": {
+    "score": 86,
+    "url": "https://www.metacritic.com/game/pc/chants-of-sennaar?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1931770,
+    "store_url": "https://store.steampowered.com/app/1931770/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Save Anytime",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 98,
+    "review_total": 12221
+  }
+}

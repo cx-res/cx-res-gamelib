@@ -1,0 +1,192 @@
+{
+  "name": "vampire-crawlers",
+  "display_name": "Vampire Crawlers",
+  "app_type": "game",
+  "description": "From the creators of Vampire Survivors comes a turbo-charged, turn-based roguelite deckbuilder! Deal world-ending combos, blitz through infested dungeons, and master the Turboturn to obliterate hordes of familiar foes with a chaotic hand of cards.",
+  "developers": [
+    "poncle",
+    "Nosebleed Interactive"
+  ],
+  "publishers": [
+    "poncle"
+  ],
+  "franchise": "",
+  "release_date": "2026-04-21",
+  "website": "",
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+    "tchinese": "吸血鬼爬行者: 屠戮地牢的吸血鬼倖存者"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Vampire Crawlers.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Vampire Crawlers.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Vampire Crawlers.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Vampire Crawlers.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nosebleed Interactive/Vampire Crawlers/Save",
+        "pattern": "*.save",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nosebleed Interactive/Vampire Crawlers/Save",
+        "pattern": "*.demosave",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nosebleed Interactive/Vampire Crawlers/Save",
+        "pattern": "*.save",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nosebleed Interactive/Vampire Crawlers/Save",
+        "pattern": "*.demosave",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Vampire Crawlers",
+    "Vampire Crawlers.app",
+    "吸血鬼爬行者: 屠戮地牢的吸血鬼幸存者",
+    "吸血鬼爬行者: 屠戮地牢的吸血鬼倖存者"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3265700/0ad548761903321badf0d368b1142e7976a455d7.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/5590e42cab09dacabee973dd2c3e27ef12ed4950/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/7e1d03c69fe971343ba08977b7478882b90e0432/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/d2b2ab54dfdf9304856d25867bb6d659562d6d10/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/baf02b93170c9ca0b0e6b28be34b04a77009213d/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3265700/504abda267fb1e11ccf8e66fbcd2a4a558b0df48/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/b1dc50ea55ff96ba2ff0d83578c6002206612479/ss_b1dc50ea55ff96ba2ff0d83578c6002206612479.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/6719e1650c723f947db3e6bc0ae7574423589807/ss_6719e1650c723f947db3e6bc0ae7574423589807.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/b13c774f5b111e8be93312d1f98fa11ed7e3a981/ss_b13c774f5b111e8be93312d1f98fa11ed7e3a981.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/10b3a5d9c7f4a4a58c37a730b6d3992f7f806d42/ss_10b3a5d9c7f4a4a58c37a730b6d3992f7f806d42.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/e7344f7a845d930240c9878d4aaa79dd36092298/ss_e7344f7a845d930240c9878d4aaa79dd36092298.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/bc5f3cc013039fad50386ca46520cda9e75d15e7/ss_bc5f3cc013039fad50386ca46520cda9e75d15e7.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/2cebe23f9d4169afa40e877f7dba12d5b811a4cf/ss_2cebe23f9d4169afa40e877f7dba12d5b811a4cf.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/a59d07db33cceeb68d9f7fbbe2748326203e71e3/ss_a59d07db33cceeb68d9f7fbbe2748326203e71e3.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/4cb573678fc9cecf6b0a990385a7d9689f585f11/ss_4cb573678fc9cecf6b0a990385a7d9689f585f11.1920x1080.jpg?t=1776925935"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3265700/c5ede2a487a82844cfd73af0a467cfa43396c144/ss_c5ede2a487a82844cfd73af0a467cfa43396c144.1920x1080.jpg?t=1776925935"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Vampire Crawlers - First Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250926/34267938a4387d9a5f2da844b51c84b88ae8eb17/movie_600x337.jpg?t=1765907820",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3265700/1337073643/1f2282ad982c5e9a44c72789528772360f5f2bc6/1765906047/dash_h264.mpd?t=1765907820"
+    },
+    {
+      "name": "Vampire Crawlers - Launch ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257323582/bf8ff2741f36c2bfb1917704ba812e569df68239/movie_600x337.jpg?t=1776787516",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3265700/1396628951/54775cbf7bae366482b12aaf4f7102f0e4a095ea/1776784393/dash_h264.mpd?t=1776787516"
+    },
+    {
+      "name": "Vampire Crawlers - Announce",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257228176/615e758ab663b638af97d373b23faab25184069c/movie_600x337.jpg?t=1763662187",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3265700/153627775/e1f37589953ad32da24efaee3d0abc5128473c05/1763656392/dash_h264.mpd?t=1763662187"
+    },
+    {
+      "name": "Vampire Crawlers - Launch Date Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257306012/1aa27e949a63709ce05d423196edbfb54e433d7c/movie_600x337.jpg?t=1773928804",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3265700/1520193766/2b534a346682e82e62146cb09aacc97da569253a/1773923741/dash_h264.mpd?t=1773928804"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3265700,
+    "store_url": "https://store.steampowered.com/app/3265700/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 95,
+    "review_total": 7632
+  }
+}

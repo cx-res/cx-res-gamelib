@@ -1,0 +1,214 @@
+{
+  "name": "hyper-light-drifter",
+  "display_name": "Hyper Light Drifter",
+  "app_type": "game",
+  "description": "Explore a beautiful, vast and ruined world riddled with dangers and lost technologies.",
+  "developers": [
+    "Heart Machine"
+  ],
+  "publishers": [
+    "Heart Machine"
+  ],
+  "franchise": "",
+  "release_date": "2016-03-31",
+  "website": "http://heartmachine.com",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "Italian",
+    "German",
+    "Spanish - Spain",
+    "Japanese"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "run.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "run.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "run.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      },
+      {
+        "executable": "HyperLightDrifter.exe",
+        "description": "with Logging",
+        "type": "option1"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [],
+    "macos": [],
+    "linux": []
+  },
+  "search_terms": [
+    "Hyper Light Drifter",
+    "HyperLightDrifter",
+    "HyperLightDrifter.app",
+    "run.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/257850/d7d57d58051fec87e4b5c54bbac5bfacdd0ac964.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/08c20a6af56d22127aa677762a5d76d310cc591a/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/9f773147298cb427046ee20c59c587d5565e8b57/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/a7bbe34053a378fe772107e6eef0f8af3abf3f3f/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257850/9880aa4af6e7c75616aa94409654c815f7bb17bf/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_e786b1d9c66eb9c61e4da2945fe1d9faeb2af736.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_19c973259b736f14c4541ba044f3761b39a18737.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_37ad0b207c867078e87cf8a185fe3c66b0bdd490.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_b38d4392356a39a745fd18c032195a71c40d038b.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_6f2737707906d93e4bd92c7aa4db615b8da10693.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_fba6762a846f9d79ade2f008514e2e4cea16d0a4.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_102dcb97e5b22daf206a3432e4f22415f135c46a.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_6b876e2b77aaf45cf65e6dd3f8e62df4f5128351.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_1962272af153de3b68a1e5a199a2da45692e6e42.1920x1080.jpg?t=1762899660"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257850/ss_0875859b9cf2db668a658d26c9a783e7765631a5.1920x1080.jpg?t=1762899660"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hyper Light Drifter Trailer 03",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661723/movie.293x165.jpg?t=1586549605",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257850/54302/58d0ce3851e24bc37c2f3cf85a0942756bda27fb/1750497262/dash_h264.mpd?t=1586549605"
+    },
+    {
+      "name": "Hyper Light Drifter Trailer 02",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2034557/movie.293x165.jpg?t=1586549610",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/257850/25305/a527cf44acd34044fd388b9abbc35aaef9000025/1750497227/dash_h264.mpd?t=1586549610"
+    }
+  ],
+  "metacritic": {
+    "score": 84,
+    "url": "https://www.metacritic.com/game/pc/hyper-light-drifter?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 257850,
+    "store_url": "https://store.steampowered.com/app/257850/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Shared/Split Screen Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 93,
+    "review_total": 10462
+  }
+}

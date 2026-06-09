@@ -1,0 +1,318 @@
+{
+  "name": "ultimate-chicken-horse",
+  "display_name": "Ultimate Chicken Horse",
+  "app_type": "game",
+  "description": "Ultimate Chicken Horse is a party platformer game where you build the level as you play, placing traps and hazards to screw your friends over, but trying not to screw yourself.",
+  "developers": [
+    "Clever Endeavour Games"
+  ],
+  "publishers": [
+    "Clever Endeavour Games"
+  ],
+  "franchise": "",
+  "release_date": "2016-03-05",
+  "website": "http://www.ultimatechickenhorse.com",
+  "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "swedish",
+    "czech",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "koreana": "얼티밋 치킨 호스",
+    "schinese": "超级鸡马",
+    "tchinese": "超級雞馬"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "UltimateChickenHorse.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.x86_64",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.app",
+        "description": "Launch",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "UltimateChickenHorse.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.x86_64",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.app",
+        "description": "Launch",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "UltimateChickenHorse.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.x86_64",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UltimateChickenHorse.app",
+        "description": "Launch",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "gameinstall",
+        "path": "UltimateChickenHorse_Data",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.snapshot",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.ruleset",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "gameinstall",
+        "path": "UltimateChickenHorse_Data",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.snapshot",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.ruleset",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "gameinstall",
+        "path": "UltimateChickenHorse_Data",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.snapshot",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.uch",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Clever Endeavour Games/Ultimate Chicken Horse",
+        "pattern": "*.ruleset",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Ultimate Chicken Horse",
+    "UltimateChickenHorse",
+    "UltimateChickenHorse.x86_64",
+    "UltimateChickenHorse.app",
+    "얼티밋 치킨 호스",
+    "超级鸡马",
+    "超級雞馬"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/386940/07e45651fd2e37fde1d512c4cb77238ff5ce97c0.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386940/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386940/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386940/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386940/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/386940/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_37241b90656a823b63934ee996bb81efd9fc8468.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_808712896e499b291b913abf5cf30c736f0d6ea0.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_eebaadf226741a95895e07edebab32b9416aa20b.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_c69d36aea0cc8e9a6168734104efdd34ef14ebd4.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_686fa20defe8aef5068db8237c5c25b1ce5258f9.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_61edb3f0e1956596523b5870279233246730f091.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_0446c14aabed53206fbe493e5650d30ea73ae563.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_7e7ebc6e52e020afab1e692d7355cc1402e9eb7b.1920x1080.jpg?t=1765298731"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386940/ss_a64a14eb4daa04c1ba2c3ab6fc1625ef5cdfe19b.1920x1080.jpg?t=1765298731"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Ultimate Chicken Horse Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256661425/movie.293x165.jpg?t=1692053208",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/53675/840a81d7bb06ec65b2ce272294a83c6d5b752b78/1750523143/dash_h264.mpd?t=1692053208"
+    },
+    {
+      "name": "Pandamonium Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257022851/movie.293x165.jpg?t=1715620802",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/699537/c7d88ceb17993736ee02f85f60d6c3b0a267eef6/1750523286/dash_h264.mpd?t=1715620802"
+    },
+    {
+      "name": "Shellebration Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256934213/movie.293x165.jpg?t=1692053212",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/545485/47a6980c8f81d0092931a3cb746e8b6e6867f546/1750523285/dash_h264.mpd?t=1692053212"
+    },
+    {
+      "name": "Hippo-Party-Plus Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256850682/movie.293x165.jpg?t=1692053216",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/399625/9a9e980a47257dd95a72a79b6dcf31e7f77ded36/1750523238/dash_h264.mpd?t=1692053216"
+    },
+    {
+      "name": "A-cobra-tic Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256776147/movie.293x165.jpg?t=1692053220",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/268688/6209c60345fbd7bb3830b056d582711286c24be1/1750523214/dash_h264.mpd?t=1692053220"
+    },
+    {
+      "name": "Transformidable Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744489/movie.293x165.jpg?t=1692053224",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/211873/7c6a144351711add0bb677c7893d65d929a599d4/1750523194/dash_h264.mpd?t=1692053224"
+    },
+    {
+      "name": "Chimply Amazing Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731813/movie.293x165.jpg?t=1692053228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/189728/b7f7efc2bd699d035a75108d5badef5aa68b5137/1750523184/dash_h264.mpd?t=1692053228"
+    },
+    {
+      "name": "Elephantastic Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256703402/movie.293x165.jpg?t=1692053232",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/137433/1a1028b5c31a85f18ff13d2697f35382721b15ed/1750523163/dash_h264.mpd?t=1692053232"
+    },
+    {
+      "name": "Level Sharing Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674186/movie.293x165.jpg?t=1692053235",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/386940/79540/f11fdc7dd6f238521a2a775d49767c023a0b8ae9/1750523151/dash_h264.mpd?t=1692053235"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 386940,
+    "store_url": "https://store.steampowered.com/app/386940/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 96,
+    "review_total": 14353
+  }
+}

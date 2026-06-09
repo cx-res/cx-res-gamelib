@@ -1,0 +1,198 @@
+{
+  "name": "nioh-3",
+  "display_name": "Nioh 3",
+  "app_type": "game",
+  "description": "In the third game in the dark samurai action RPG series Nioh, you will need to use both Samurai and Ninja combat styles in your battles against formidable yokai as you explore a thrilling open field.",
+  "developers": [
+    "KOEI TECMO GAMES CO., LTD."
+  ],
+  "publishers": [
+    "KOEI TECMO GAMES CO., LTD."
+  ],
+  "franchise": "",
+  "release_date": "2026-02-06",
+  "website": "https://teamninja-studio.com/nioh3/",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "arabic",
+    "brazilian"
+  ],
+  "name_localized": {
+    "japanese": "仁王３",
+    "schinese": "仁王３",
+    "tchinese": "仁王３"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Nioh3.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Daylight.exe",
+        "description": "Daylight.exe",
+        "type": "option1"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "KoeiTecmo\\NIOH3\\Savedata\\{64BitSteamID}\\",
+        "pattern": "SAVEDATA.BIN",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocal",
+        "path": "KoeiTecmo\\NIOH3\\Savedata\\{64BitSteamID}\\",
+        "pattern": "BACKUP.BIN",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Nioh 3",
+    "Nioh3",
+    "Daylight",
+    "仁王３"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3681010/6fd20bd9cb64d2282d8eeeb4af058c382620e18c.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/a21264e9fd476dcb2901c2432b598107d024c5a8/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/19b0758706fefb5c06a6183365fd62dafe2bf914/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/a6c07532fbcfa8c7aeecddc251aa4a6a7156323c/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/8207558c4385cc2803570202f7b0514ca2adab28/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681010/4c03c515e0c887359a22ccacf0037f3c25e7b787/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/c65877619b70c51d6be030c20b5c37bcfaf2e248/ss_c65877619b70c51d6be030c20b5c37bcfaf2e248.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/8c9333bf3f28194cb8113af455ecaf1aa45a0050/ss_8c9333bf3f28194cb8113af455ecaf1aa45a0050.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d02a1bcff9cc74ef4551c9afce91c78881539a1/ss_5d02a1bcff9cc74ef4551c9afce91c78881539a1.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/fe1a9485c46e95c8a899e8cfc645136f303b4fda/ss_fe1a9485c46e95c8a899e8cfc645136f303b4fda.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/9068ef1b3d231d0808ac8ec50ae864483e4374d9/ss_9068ef1b3d231d0808ac8ec50ae864483e4374d9.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/271b11ccc100773992d9e0a1d06a1d3848eaf1c8/ss_271b11ccc100773992d9e0a1d06a1d3848eaf1c8.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3/ss_291a1cebda45a0c6cfcf85d2e46e8cd46e1d45a3.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b/ss_5d034bc651b8b1d5b7b12f9fd8e9f7d2b5fc0d6b.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/76d0ee6c0c0d0605b3e9bdc690b477234e270554/ss_76d0ee6c0c0d0605b3e9bdc690b477234e270554.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/01473e77245640318e652da022a5c379d7fe09aa/ss_01473e77245640318e652da022a5c379d7fe09aa.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/b2cf85ed0b734ad851c42da74c731db3ca2e9502/ss_b2cf85ed0b734ad851c42da74c731db3ca2e9502.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/8f3e5ec42c6f3e1ed92a76541b4fc1245be4e687/ss_8f3e5ec42c6f3e1ed92a76541b4fc1245be4e687.1920x1080.jpg?t=1772090941"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681010/cdab644c4645c795e44d4b3766bdbd9dcb1613b5/ss_cdab644c4645c795e44d4b3766bdbd9dcb1613b5.1920x1080.jpg?t=1772090941"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Nioh 3 - Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257290844/1fb7be8a9be67d3c478e5ceddac42a0ac34087f0/movie_600x337.jpg?t=1771565584",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3681010/156602689/7779c85f5dbce3c97f70477ec732ed38447e7cad/1771561265/dash_h264.mpd?t=1771565584"
+    },
+    {
+      "name": "Nioh 3 - Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257280820/3c2dc0ff9f7d7ed8427890836cc88d64ddf5dbad/movie_600x337.jpg?t=1771987337",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3681010/1001716042/863374c591ca918b0a413d259efa376f9c9b108e/1771985262/dash_h264.mpd?t=1771987337"
+    },
+    {
+      "name": "Nioh 3 – TGA 2025 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257248121/0cd3907fdafc3fb3509b40265ceae69423b2d6e6/movie_600x337.jpg?t=1765519293",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3681010/1020512657/76dd000dbba983f105fbca0fe2ed4b7c802a71ee/1765514001/dash_h264.mpd?t=1765519293"
+    },
+    {
+      "name": "Nioh 3 – Release Date Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257205235/ce426e550d0e16fa1311c16b7ebbaa925c7e70d5/movie_600x337.jpg?t=1758755728",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3681010/881917439/5a7f015dcdb9fc5c3e6de5c0c2a5d866d8980499/1758692388/dash_h264.mpd?t=1758755728"
+    },
+    {
+      "name": "Nioh 3 - Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257151321/2af82ba26f2997719eecbf85e282e280dbd2de44/movie_600x337.jpg?t=1752636947",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3681010/1050200723/452b09347ae48fc5e71268b3c55a680e778f0c32/1750400309/dash_h264.mpd?t=1752636947"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/nioh-3?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 3681010,
+    "store_url": "https://store.steampowered.com/app/3681010/",
+    "required_age": 17,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "top_review_rank": 1,
+    "review_positive_percent": 81,
+    "review_total": 4438
+  }
+}

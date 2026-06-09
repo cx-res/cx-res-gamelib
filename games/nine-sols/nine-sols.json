@@ -1,0 +1,181 @@
+{
+  "name": "nine-sols",
+  "display_name": "Nine Sols",
+  "app_type": "game",
+  "description": "Nine Sols is a lore rich, hand-drawn 2D action-platformer featuring Sekiro-inspired deflection focused combat. Embark on a journey of eastern fantasy, explore the land once home to an ancient alien race, and follow a vengeful hero’s quest to slay the 9 Sols, formidable rulers of this forsaken realm.",
+  "developers": [
+    "RedCandleGames"
+  ],
+  "publishers": [
+    "RedCandleGames"
+  ],
+  "franchise": "",
+  "release_date": "2024-05-29",
+  "website": "https://redcandlegames.com/",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian",
+    "ukrainian",
+    "latam"
+  ],
+  "name_localized": {
+    "english": "Nine Sols",
+    "tchinese": "九日",
+    "schinese": "九日",
+    "japanese": "九日ナインソール",
+    "koreana": "나인 솔즈"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "NineSols.exe",
+        "description": "<Windows>",
+        "type": "default"
+      },
+      {
+        "executable": "NineSols.app",
+        "description": "<MacOS>",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "NineSols.exe",
+        "description": "<Windows>",
+        "type": "default"
+      },
+      {
+        "executable": "NineSols.app",
+        "description": "<MacOS>",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "RedCandleGames/NineSols",
+        "pattern": "*.*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "RedCandleGames/NineSols",
+        "pattern": "*.*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Nine Sols",
+    "NineSols",
+    "NineSols.app",
+    "九日",
+    "九日ナインソール",
+    "나인 솔즈"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1809540/9ba25f8e1b636ee56cc37196eb6fbcc13defac8e.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1809540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_514e766f27fcfccf375c85a842099d53e9542258.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_a48f85ae073148d13332b1a7741a764a046f83be.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_75017574e6cac5233b32492509fe47825dc530bf.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_bf5096e3682d7d2fb1d3fa7cccb5398fb934144a.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_4be552cc9f6b03f0918e55b17145d3f5cbd36065.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_628bc8052f48cd68ae42e4b54c3a9af97f560c06.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_82027cbc20c7c1ba76898fa07e2c9657870b8b13.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_78a1ceb8ca2f14d0c940d2de74c3702bcbf29d0f.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_77ce110b6c47cc2abc21dc391e47a130e9399750.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_f02ab26414c5bca263a0b2c7297002193cbae4e3.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_f745405ca0842d6ad02a37c841dc005326fcbada.1920x1080.jpg?t=1762838904"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/ss_8a3f088d3403dc460d4a35669df71839426bb018.1920x1080.jpg?t=1762838904"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026674/movie.293x165.jpg?t=1716982388",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1809540/706461/7def859a76fd49482082d089a437e55d4a3da2eb/1750737040/dash_h264.mpd?t=1716982388"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1809540,
+    "store_url": "https://store.steampowered.com/app/1809540/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 95,
+    "review_total": 18622
+  }
+}

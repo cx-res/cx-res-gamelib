@@ -1,0 +1,451 @@
+{
+  "name": "rimworld",
+  "display_name": "RimWorld",
+  "app_type": "game",
+  "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+  "developers": [
+    "Ludeon Studios"
+  ],
+  "publishers": [
+    "Ludeon Studios"
+  ],
+  "franchise": "",
+  "release_date": "2018-10-17",
+  "website": "https://ludeon.com",
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Polish",
+    "Russian",
+    "Italian",
+    "Spanish - Spain",
+    "Czech",
+    "Danish",
+    "Dutch",
+    "Hungarian",
+    "Japanese",
+    "Norwegian",
+    "Portuguese - Portugal",
+    "Portuguese - Brazil",
+    "Simplified Chinese",
+    "Swedish",
+    "Traditional Chinese",
+    "Turkish",
+    "Ukrainian",
+    "Finnish",
+    "Korean",
+    "Romanian",
+    "Spanish - Latin America"
+  ],
+  "name_localized": {
+    "schinese": "边缘世界 RimWorld"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldMac.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "start_RimWorld.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin64.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Beta 18",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 17",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 16",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 15",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 14",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 13",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 4",
+        "type": "none"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldMac.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "start_RimWorld.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin64.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Beta 18",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 17",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 16",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 15",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 14",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 13",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 4",
+        "type": "none"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldMac.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "start_RimWorld.sh",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin64.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Beta 18",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 17",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 16",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 15",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 14",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 13",
+        "type": "none"
+      },
+      {
+        "executable": "RimWorldWin.exe",
+        "description": "RimWorld Alpha 4",
+        "type": "none"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rws",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rsc",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rid",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xtp",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xgm",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rml",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rws",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rsc",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rid",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xtp",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xgm",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rml",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rws",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rsc",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rid",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xtp",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.xgm",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Ludeon Studios/RimWorld by Ludeon Studios",
+        "pattern": "*.rml",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "RimWorld",
+    "RimWorldWin",
+    "RimWorldMac.app",
+    "start_RimWorld.sh",
+    "RimWorldWin64",
+    "边缘世界 RimWorld"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/294100/addbe3b704b267060b4d5d7649cfb292de61bd70.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/a805ac5e3ceb54a2d7d3e1c1049907f1ef8bbb89/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/644bff2fcf3a104d1e022b53a7f9c8c58af91c8a/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/6d7bd7e3d848308ffac87221194aba2338d10efa/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/294100/b9132fc5f1fdeaeb6c12a002e87b37c8978ea970/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/80e383ef19353058791efe17a6485849246c9c17/ss_80e383ef19353058791efe17a6485849246c9c17.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/a6158c5cef23ac8157b37dd3eb17f3c2d2649e93/ss_a6158c5cef23ac8157b37dd3eb17f3c2d2649e93.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/cccfece4c643fd32d438642fbea1b980bc519a48/ss_cccfece4c643fd32d438642fbea1b980bc519a48.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/57c3e8d556d47bb5ad048699643528aefc652aa6/ss_57c3e8d556d47bb5ad048699643528aefc652aa6.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/59a1400eff99e2b620d623d3d76a02c1592a72e7/ss_59a1400eff99e2b620d623d3d76a02c1592a72e7.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f/ss_1e3a2734b23daaa4eb60ea33dd87806aa65e0c8f.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/788bf7f8f71014b2be28b3dfa11405a06a7fb49e/ss_788bf7f8f71014b2be28b3dfa11405a06a7fb49e.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/698ad21bff61006f31650270446d68cd1073c770/ss_698ad21bff61006f31650270446d68cd1073c770.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/71f1f380e10d46e7355469b93ec60dcd81af03c6/ss_71f1f380e10d46e7355469b93ec60dcd81af03c6.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/b509c42ec00bde9422e7a87cab7c8bb1b884915f/ss_b509c42ec00bde9422e7a87cab7c8bb1b884915f.1920x1080.jpg?t=1780420333"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/382605cbf325270a5dcce07f7db48398e3e39129/ss_382605cbf325270a5dcce07f7db48398e3e39129.1920x1080.jpg?t=1780420333"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256731486/movie.293x165.jpg?t=1539788136",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/294100/189193/b88a55b0c4df1e292fa85455c5157a31ad1da17c/1750502942/dash_h264.mpd?t=1539788136"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/rimworld?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 294100,
+    "store_url": "https://store.steampowered.com/app/294100/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "top_review_rank": 1,
+    "review_positive_percent": 97,
+    "review_total": 117017
+  }
+}

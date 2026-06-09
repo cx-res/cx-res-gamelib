@@ -1,0 +1,155 @@
+{
+  "name": "outer-wilds",
+  "display_name": "Outer Wilds",
+  "app_type": "game",
+  "description": "Named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop.",
+  "developers": [
+    "Mobius Digital"
+  ],
+  "publishers": [
+    "Annapurna Interactive"
+  ],
+  "franchise": "",
+  "release_date": "2020-06-18",
+  "website": "",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "turkish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "OuterWilds.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Mobius Digital/Outer Wilds/SteamSaves",
+        "pattern": "*.owprofile",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Mobius Digital/Outer Wilds/SteamSaves",
+        "pattern": "*.owsave",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Mobius Digital/Outer Wilds/SteamSaves",
+        "pattern": "input.owsett",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Mobius Digital/Outer Wilds/SteamSaves",
+        "pattern": "player.owsett",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Outer Wilds",
+    "OuterWilds"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/753640/8d0c2dcfc599445affcbad76a34d89478c022780.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/c3b501a7177b6c902c69565366d4c5f4b82f23fe/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/753640/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_ec95a283483f0438be40d033f08b9d956e748d54.1920x1080.jpg?t=1779137571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_09f0fa8d9b8d7da1408cf4e03303d896cbd9be18.1920x1080.jpg?t=1779137571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_c624a6b8edca0d451605592edd927dbcc14917a8.1920x1080.jpg?t=1779137571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_8683942f8d09eec32daeebe94867287424968f97.1920x1080.jpg?t=1779137571"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/ss_fe4a6504c49efa6e7cb9ecda7aeddb6f7451a2cc.1920x1080.jpg?t=1779137571"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Outer Wilds | Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256778920/movie.293x165.jpg?t=1585255228",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/753640/273682/2f2fdd9086d95ee6dde3cd4dc7d70975d6c6bc81/1750579139/dash_h264.mpd?t=1585255228"
+    },
+    {
+      "name": "Outer Wilds | Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256711433/movie.293x165.jpg?t=1521129497",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/753640/151711/33469b4e2c598f87186aad4b814684d3a4e3325e/1750579120/dash_h264.mpd?t=1521129497"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/outer-wilds?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 753640,
+    "store_url": "https://store.steampowered.com/app/753640/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Keyboard Only Option",
+      "Playable without Timed Input",
+      "Stereo Sound",
+      "Surround Sound",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 95,
+    "review_total": 50805
+  }
+}

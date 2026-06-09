@@ -1,0 +1,203 @@
+{
+  "name": "dead-space",
+  "display_name": "Dead Space",
+  "app_type": "game",
+  "description": "The sci-fi survival-horror classic returns, completely rebuilt to offer an even more immersive experience — including visual, audio, and gameplay improvements — while staying faithful to the original game’s thrilling vision.",
+  "developers": [
+    "Motive"
+  ],
+  "publishers": [
+    "Electronic Arts"
+  ],
+  "franchise": "",
+  "release_date": "2023-01-28",
+  "website": "https://www.ea.com/games/dead-space/dead-space",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "japanese",
+    "polish",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "tchinese": "《絕命異次元》",
+    "schinese": "死亡空间"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Dead Space.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinMyDocuments",
+        "path": "Dead Space (2023)/settings/steam",
+        "pattern": "ProfileOptions",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinMyDocuments",
+        "path": "Dead Space (2023)/settings/steam",
+        "pattern": "ProfileOptions_profile_synced",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinMyDocuments",
+        "path": "Dead Space (2023)/settings/steam",
+        "pattern": "SaveSlots",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinMyDocuments",
+        "path": "Dead Space (2023)/settings/steam",
+        "pattern": "*.sav",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinMyDocuments",
+        "path": "Dead Space (2023)/settings/steam",
+        "pattern": "*.ngp",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Dead Space",
+    "《絕命異次元》",
+    "死亡空间"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1693980/3368d467f4f60f9f07ec4c206a22184fae060be2.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_b4b02766216117747640523bb6e258d44053e355.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_179cb4f80343d464ea2d7712b5982555271ad707.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_06f8cc8ad27e53078b09df03c5c3fb1c75459960.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_a7a0bceba764978d54ff0bb7ba0f0aa08487cd05.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_973768134ba80cf0d591a4f0a834b8ae10ddca93.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_ac858a049e79f21d4578a24f345fbc3bc26b6669.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_fb95fcf0b3f44661b938f75bc4de118e307cb7b3.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_da53dddf36e4272641074f4eea62ad229c556f46.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_142a5aa7369ba583049c96dd7b77c62c2bb610d1.1920x1080.jpg?t=1777396576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693980/ss_1c0e661de11eb270181fca3d37cfacac954587b2.1920x1080.jpg?t=1777396576"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dead Space | Official Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256929315/movie.293x165.jpg?t=1675772698",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1693980/536887/4bc39903cb1de775b3a2a9bc3b536f54da93ba32/1750726170/dash_h264.mpd?t=1675772698"
+    },
+    {
+      "name": "Official Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927035/movie.293x165.jpg?t=1674835402",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1693980/532987/5952422f8fbcd652e2891f5760d0ae27ac5a215a/1750726154/dash_h264.mpd?t=1674835402"
+    },
+    {
+      "name": "Officially gameplay tr",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256927033/movie.293x165.jpg?t=1674835413",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1693980/532985/2c155b6fbb5e51526b0978274accdab00e93481a/1750726127/dash_h264.mpd?t=1674835413"
+    },
+    {
+      "name": "Dead Space | Extended Gameplay Walkthrough",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256911793/movie.293x165.jpg?t=1674835993",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1693980/506378/20a5a15db4b08f2be24d972a293661982df3af65/1750725969/dash_h264.mpd?t=1674835993"
+    },
+    {
+      "name": "Official Lullaby Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932900/movie.293x165.jpg?t=1677522851",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1693980/543141/3a5665fdea717adaa85af5989ddb81d963ba7b5a/1750726257/dash_h264.mpd?t=1677522851"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/dead-space?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1693980,
+    "store_url": "https://store.steampowered.com/app/1693980/",
+    "required_age": 17,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Keyboard Only Option",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Steam Cloud",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 90,
+    "review_total": 30122
+  }
+}
