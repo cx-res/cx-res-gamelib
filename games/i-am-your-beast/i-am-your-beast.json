@@ -1,0 +1,118 @@
+{
+  "name": "i-am-your-beast",
+  "display_name": "I Am Your Beast",
+  "app_type": "game",
+  "description": "Hunt the military-industrial complex across stylish comic book micro-sandboxes in this fast-paced covert revenge thriller FPS from the developers of El Paso, Elsewhere.",
+  "developers": [
+    "Strange Scaffold"
+  ],
+  "publishers": [
+    "Strange Scaffold",
+    "Frosty Pop"
+  ],
+  "franchise": "",
+  "release_date": "2024-09-10",
+  "website": "https://www.strangescaffold.com/",
+  "genres": [
+    "Action"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "I Am Your Beast.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Strange Scaffold\\I Am Your Beast\\",
+        "pattern": "*.sav",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "I Am Your Beast"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1876590/a39f186b12c6ce06201b07de6a71cab141fa08a6.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/328c824d9206220fbe6f6683ecaf9925c34ef17f/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/9baf542a9b11a6be6b621de35b41ab4ed744725c/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/594c648101b083d005c3e864f101548a8008c9e4/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/968f003ebd2fcbe07209fc30147ca236ce42958a/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1876590/786ec0df920434720bb891aa2b06ac2f1e5f3de1/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_476b39aed95cbe566fadcc9b26fc50ae4e8ab6b9.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_11dc20b43e4991cb6a9a38288ea15d91378dcc17.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_f48fdad9a143272bc099c2db18f124cc81440444.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_415a59a2c356297ebee37bfd1210ce14210a2253.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_4c472cd44e4062de258772837508244658a72992.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_0b443fbafe4af54183ec6da038dd54ef8ccc8d76.1920x1080.jpg?t=1776695015"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876590/ss_8647572c4c97599eb0ee84972f3f204dd3f5ca81.1920x1080.jpg?t=1776695015"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Accolades Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257075621/cad057367c6fd3e9535894a54c6777e1b00e97dd/movie_600x337.jpg?t=1732214640",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1876590/789379/4a589be001ec4c135ebd2e9e4df4bea3528f9be7/1750739344/dash_h264.mpd?t=1732214640"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045594/movie.293x165.jpg?t=1726072797",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1876590/739344/b0e58f928d4462a44732f019552add81aa6e2b34/1750739338/dash_h264.mpd?t=1726072797"
+    },
+    {
+      "name": "'Tyrants Better Run' Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257039869/movie.293x165.jpg?t=1721741678",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1876590/729702/89c02959f182ca41dbba47880067e7baf5af50e4/1750739338/dash_h264.mpd?t=1721741678"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1876590,
+    "store_url": "https://store.steampowered.com/app/1876590/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_positive_percent": 97
+  }
+}

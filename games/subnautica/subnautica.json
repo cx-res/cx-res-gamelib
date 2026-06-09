@@ -1,0 +1,229 @@
+{
+  "name": "subnautica",
+  "display_name": "Subnautica",
+  "app_type": "game",
+  "description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
+  "developers": [
+    "Unknown Worlds Entertainment"
+  ],
+  "publishers": [
+    "Unknown Worlds Entertainment"
+  ],
+  "franchise": "",
+  "release_date": "2018-01-24",
+  "website": "http://unknownworlds.com/subnautica",
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "hungarian",
+    "czech",
+    "turkish",
+    "brazilian",
+    "bulgarian",
+    "ukrainian"
+  ],
+  "name_localized": {
+    "sc_schinese": "Subnautica - 深海迷航",
+    "koreana": "서브노티카",
+    "japanese": "サブノーティカ",
+    "schinese": "Subnautica - 深海迷航"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Subnautica.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica32.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica.exe",
+        "description": "",
+        "type": "vr"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Subnautica.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica32.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "Subnautica.exe",
+        "description": "",
+        "type": "vr"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "gameinstall",
+        "path": "SNAppData/SavedGames",
+        "pattern": "*.*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "gameinstall",
+        "path": "SNAppData/SavedGames",
+        "pattern": "*.*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Subnautica",
+    "Subnautica.app",
+    "Subnautica32",
+    "Subnautica - 深海迷航",
+    "서브노티카",
+    "サブノーティカ"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/264710/8a14ceef6e230330a916d7a6324b8c52d464d569.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/264710/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_e182b6b20bb797500f9f63c561586d920d44e37c.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_970a13f246e33e0df26d93baf9f8e975732adb4b.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_5f2f2ea498cdc632cbffd6cf37c1a09670eb3272.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_cebc378d2f7bc78978c21db4e3c5e12ccd067349.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_0ace7f8b4350b8fbdd16345a76bc30545256e918.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_f0eeabe108c2bc2b3e370b9828fb280035b50db2.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_b28404f3d108cc15aebbb2c3d7cb17e587225662.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_623579a6693f6fc48033e619cacc4306f10eef15.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_9fdfcc7572ae22b4afa21e6de3b23c962ca5bb55.1920x1080.jpg?t=1777456112"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_883a98ad56021ce409219e1b749818866b6115cd.1920x1080.jpg?t=1777456112"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Subnautica Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706800/movie.293x165.jpg?t=1516828564",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/143519/33594902d34e588ce90d9905c30aa902198fea59/1750490623/dash_h264.mpd?t=1516828564"
+    },
+    {
+      "name": "Subnautica Cinematic Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256706872/movie.293x165.jpg?t=1516824043",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/143714/5edf88beb952621c411bb168a9b08c9e7ef51637/1750490625/dash_h264.mpd?t=1516824043"
+    },
+    {
+      "name": "Subnautica Early Access Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2036126/movie.293x165.jpg?t=1447366004",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/28654/05ca8a9c6de3c597701bc93e6d7615fb557c852e/1750490540/dash_h264.mpd?t=1447366004"
+    },
+    {
+      "name": "Subnautica Early Access Gameplay Montage",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256662171/movie.293x165.jpg?t=1518110769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/55128/06ac53f65e291c5ee42b9e76907f7a3cdef362f6/1750490593/dash_h264.mpd?t=1518110769"
+    },
+    {
+      "name": "Subnautica Seamoth Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256656451/movie.293x165.jpg?t=1491210612",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/43042/c9749f04ba1d19d13a2194451143f23b29d39a58/1750490588/dash_h264.mpd?t=1491210612"
+    },
+    {
+      "name": "Subnautica Infected Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256682542/movie.293x165.jpg?t=1491210622",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/96839/67b1a47be4d4772dcce0d154faba31aae88cc300/1750490611/dash_h264.mpd?t=1491210622"
+    },
+    {
+      "name": "Subnautica Prawn Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256682547/movie.293x165.jpg?t=1491210632",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/264710/96845/1cf981c7803fb992a75c63298cd7d4a0626fdd72/1750490621/dash_h264.mpd?t=1491210632"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/subnautica?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 264710,
+    "store_url": "https://store.steampowered.com/app/264710/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "VR Supported",
+      "Steam Trading Cards",
+      "VR Support",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 96,
+    "review_total": 185119
+  }
+}

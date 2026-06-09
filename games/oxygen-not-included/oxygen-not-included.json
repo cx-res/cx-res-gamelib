@@ -1,0 +1,233 @@
+{
+  "name": "oxygen-not-included",
+  "display_name": "Oxygen Not Included",
+  "app_type": "game",
+  "description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
+  "developers": [
+    "Klei Entertainment"
+  ],
+  "publishers": [
+    "Klei Entertainment"
+  ],
+  "franchise": "",
+  "release_date": "2019-07-31",
+  "website": "https://www.kleientertainment.com/games/oxygen-not-included",
+  "genres": [
+    "Indie",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English*",
+    "Simplified Chinese*",
+    "Korean*",
+    "Russian**languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "缺氧",
+    "tchinese": "缺氧"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "OxygenNotIncluded.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "OxygenNotIncluded.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "OxygenNotIncluded.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OxygenNotIncluded",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinMyDocuments",
+        "path": "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinMyDocuments",
+        "path": "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinMyDocuments",
+        "path": "Klei/OxygenNotIncluded/cloud_save_files/{64BitSteamID}",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Oxygen Not Included",
+    "OxygenNotIncluded",
+    "OxygenNotIncluded.app",
+    "缺氧"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/457140/d37534163ebac8351e0bda0bf30f8f2174c921b6.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/457140/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_78d1c92edeecc7b17cafa9248867fe7d4390a0a0.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_67ab224dd8c781d5a27ee52657173298873d439a.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_ba2b8c362327add29b08182d13b04bf502e065cd.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_c5e20abaf2c82f9156da9c80b2ec7c0aefc46254.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_24a4ffeaf41ea6d782fef203177243d36c185506.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_02af9f36ca186bba1d0f2d5819d169e741076b46.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_a481601e529d5fd3acc25a55557dfd1775cc6c96.1920x1080.jpg?t=1781198471"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/ss_936e1756325dbd936f5b5227bdfb3357b57b356c.1920x1080.jpg?t=1781198471"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Hangry For More!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257235391/3f7da7f1d05465b45f128a99be64d780608bb01d/movie_600x337.jpg?t=1763664297",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/1591482321/da8da016a7d7e7efd4819927145a5afd29f34b02/1763663209/dash_h264.mpd?t=1763664297"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256757654/movie.293x165.jpg?t=1763772048",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/235588/6bfaaf567e91449bf61db285e5b670ebd49503ba/1750532793/dash_h264.mpd?t=1763772048"
+    },
+    {
+      "name": "Early Access 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256685295/movie.293x165.jpg?t=1495142922",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/103374/3cc2b3498e96c43f0b38893c5225454917bfb20d/1750532755/dash_h264.mpd?t=1495142922"
+    },
+    {
+      "name": "Whatta Blast!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938717/movie.293x165.jpg?t=1680201092",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/553538/b1dbc9d37477beb38c8fc2289af67fe66ad1f781/1750532810/dash_h264.mpd?t=1680201092"
+    },
+    {
+      "name": "Space Industry",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256732663/movie.293x165.jpg?t=1540515738",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/191216/46e81eeaba9a85260242c2c2fcd15b1515bebba0/1750532775/dash_h264.mpd?t=1540515738"
+    },
+    {
+      "name": "Packed Snacks",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256983075/movie.293x165.jpg?t=1700199880",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/630548/5d2905e77d74578cf2772babb9e7b8ec0aea2bef/1750532810/dash_h264.mpd?t=1700199880"
+    },
+    {
+      "name": "Cosmic Upgrade",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256719917/movie.293x165.jpg?t=1528996831",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/168397/b351f1c7ccf1cfe0889081420b68c1fbc73e0078/1750532772/dash_h264.mpd?t=1528996831"
+    },
+    {
+      "name": "Occupational Upgrade",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256708317/movie.293x165.jpg?t=1518112971",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/146248/ce25938b3db1bb22d23761154c0b3b972242e100/1750532766/dash_h264.mpd?t=1518112971"
+    },
+    {
+      "name": "Automation Upgrade",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256701212/movie.293x165.jpg?t=1510854853",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/133719/f637276fddff47fc06e077e902a781213abbb8ce/1750532758/dash_h264.mpd?t=1510854853"
+    },
+    {
+      "name": "Outbreak Upgrade",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256693600/movie.293x165.jpg?t=1503595564",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/119718/2905c1c9a0f847877c0a44aa0fdcc942c317bb18/1750532758/dash_h264.mpd?t=1503595564"
+    },
+    {
+      "name": "Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665154/movie.293x165.jpg?t=1465840964",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/457140/61472/6f79fa867730026e665104e8a80db66053511bf7/1750532743/dash_h264.mpd?t=1465840964"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/oxygen-not-included?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 457140,
+    "store_url": "https://store.steampowered.com/app/457140/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 96
+  }
+}

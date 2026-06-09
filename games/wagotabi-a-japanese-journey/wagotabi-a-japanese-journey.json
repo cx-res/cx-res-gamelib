@@ -1,0 +1,225 @@
+{
+  "name": "wagotabi-a-japanese-journey",
+  "display_name": "Wagotabi: A Japanese Journey",
+  "app_type": "game",
+  "description": "Wagotabi is an educational RPG teaching Japanese from the ground up. Immerse yourself in the language through interactive dialogues, quest-solving, and puzzles, all while exploring Japan and its rich culture. Will you become a Japanese master?",
+  "developers": [
+    "Wagotabi Limited"
+  ],
+  "publishers": [
+    "Wagotabi Limited"
+  ],
+  "franchise": "",
+  "release_date": "2025-08-13",
+  "website": "https://www.wagotabi.com/",
+  "genres": [
+    "Casual",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "polish",
+    "brazilian",
+    "latam",
+    "indonesian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "Wagotabi.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.x86_64",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Wagotabi.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.x86_64",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "Wagotabi.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Wagotabi.x86_64",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "WagotabiLimited/Wagotabi/UserSave/{64BitSteamID}/",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "WagotabiLimited/Wagotabi/UserSave/{64BitSteamID}/",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "WagotabiLimited/Wagotabi/UserSave/{64BitSteamID}/",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Wagotabi: A Japanese Journey",
+    "Wagotabi",
+    "Wagotabi.app",
+    "Wagotabi.x86_64"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2701720/cdf0c4ce00a119280791ebd3b1c976d336d6c665.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701720/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701720/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701720/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701720/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2701720/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/53578781d025ca7b74e01b9b74600b3c3547c5bd/ss_53578781d025ca7b74e01b9b74600b3c3547c5bd.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_6e966ab9b6925d68c4b89f410720331a13710b41.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_acf870120132cf8f4342697a2f03bacb6242573a.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/b6a540ffee7aa13a085e825d7ea936ba4706b3b1/ss_b6a540ffee7aa13a085e825d7ea936ba4706b3b1.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_c4f5c95c769eea3360dee54db71eceaa1a80f199.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/09dafeb09df4737d81d56737d888375c19474723/ss_09dafeb09df4737d81d56737d888375c19474723.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/aa25fc0c6a339a3ad5d55c347fc621ee7a842416/ss_aa25fc0c6a339a3ad5d55c347fc621ee7a842416.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_005a670a3bba4093e314817f1158d7fa1cb6e970.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_8c41a3e42ff25966d5d12b9053594453ddd11dd1.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_caa5987a00a5e00fd0b1570b779b67befa367c5a.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_9dcf7e2fb2c01db3cecc03a206b290bfb272b851.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_530dc38ad61e9448b8509b9a0791088562261199.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/bbcb8e451bc5cb2585f245ce85100d02b0d66316/ss_bbcb8e451bc5cb2585f245ce85100d02b0d66316.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_327c6a439189c9ae56ae7be364de2a66a06824c6.1920x1080.jpg?t=1779261557"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2701720/ss_f96cbc1c7777d68c86ee35113ef73a4480f29a19.1920x1080.jpg?t=1779261557"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Wagotabi Release Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257178995/22d43d77518f6db870808edbcf99267b2f458fb5/movie_600x337.jpg?t=1777635781",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2701720/1947964629/0fa5831ba0c9189e3c6d021fb5470ff8709ad48b/1754473917/dash_h264.mpd?t=1777635781"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2701720,
+    "store_url": "https://store.steampowered.com/app/2701720/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Touch Only Option",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 98
+  }
+}

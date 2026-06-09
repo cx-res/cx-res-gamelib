@@ -1,0 +1,191 @@
+{
+  "name": "murders-on-the-yangtze-river",
+  "display_name": "山河旅探 Murders on the Yangtze River",
+  "app_type": "game",
+  "description": "&quot;Murders on Yangtze River&quot; is an Ace Attorney-like detective game that takes you on a journey through early 20th century China as you solve a series of intriguing cases. Use your logical reasoning and deduction skills to uncover clues, interrogate suspects, and solve the mysteries.",
+  "developers": [
+    "OMEGAMES STUDIO"
+  ],
+  "publishers": [
+    "OMEGAMES STUDIO",
+    "NPC Entertainment"
+  ],
+  "franchise": "",
+  "release_date": "2024-01-31",
+  "website": "https://resource.itaotuo.com/website/shanhelvtan/index.html",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese"
+  ],
+  "name_localized": {
+    "sc_schinese": "山河旅探",
+    "english": "Murders on the Yangtze River",
+    "tchinese": "山河旅探 Murders on the Yangtze River",
+    "schinese": "山河旅探 - Murders on the Yangtze River"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "shanhelvtan.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "shanhelvtan.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "shanhelvtan.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "shanhelvtan.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "OMESCAPE/山河旅探/SaveData",
+        "pattern": "*.*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "OMESCAPE/山河旅探/SaveData",
+        "pattern": "*.*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "山河旅探 Murders on the Yangtze River",
+    "shanhelvtan",
+    "shanhelvtan.app",
+    "山河旅探",
+    "Murders on the Yangtze River",
+    "山河旅探 - Murders on the Yangtze River"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1746030/8cc7a3d8ddfbe56e9ecb769c506a652edf4b2b24.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/cb727ec9a8ddf151104c4e171d77aeab321c4a2f/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/08ee475b7650c158f1061d921657bc87a5a08e12/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1746030/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_fe8bc024b9505bce3ef4acfd6bc5b9e3e8d2dcb1.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_bd19e20307f28ce6136600c2fb98943869e00f33.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_0cf6dfd5d9c587f99942f3e76c13aab718987097.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_9d8a506eb0082cdddc3b9572277325e58602dd94.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_c5472b6e3e3dc97406b5fcfeb545c1c663392264.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_ee12b6c4a0b807de820b694e2c334c3afae5d3f2.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_cffee97887625a83bed1c55b18dc949494752d4c.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_7bb8a8bf0e9fc838ac52f4c978c2078b6105cc07.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_b1d8e9ad64e1636f25c97349c14be80da2b320e6.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_11e7f555750fe14bda030eaa8852ea12f0ac84bd.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_12f64ac3a36780ff9a2f978656b2a6055126702a.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_12af4ca346a891f9ad029e137cc1a59205ea323b.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_115f49e445791d3c767778d306b3f1804e4d7030.1920x1080.jpg?t=1781102408"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1746030/ss_f4a485ea4a3e968e48a6f1da822ddb29ab52db1c.1920x1080.jpg?t=1781102408"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release PV",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257032503/movie.293x165.jpg?t=1718859906",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1746030/716218/b92216f5e9b8acd13bc012a081f0dadd95e6f2db/1750731861/dash_h264.mpd?t=1718859906"
+    },
+    {
+      "name": "山河旅探终极预告片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256991980/movie.293x165.jpg?t=1718859911",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1746030/646016/ea2507c1a79dad7b0a5ec3b882e4756b5f5655f8/1750731849/dash_h264.mpd?t=1718859911"
+    },
+    {
+      "name": "主题曲",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257026288/movie.293x165.jpg?t=1718854027",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1746030/705836/80adb09ac8a2c45f2a506d722916a7e01b42602a/1750731859/dash_h264.mpd?t=1718854027"
+    },
+    {
+      "name": "汉阳铁厂英文pv",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256940081/movie.293x165.jpg?t=1686020195",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1746030/556021/50bda3f6a6ed64d5cf9ee0d8d70062a80bd5e63e/1750731828/dash_h264.mpd?t=1686020195"
+    },
+    {
+      "name": "英文实机演示",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256940086/movie.293x165.jpg?t=1686020199",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1746030/556028/fce52c011ddfd93257f39cda2eddc77bfffd468f/1750731829/dash_h264.mpd?t=1686020199"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1746030,
+    "store_url": "https://store.steampowered.com/app/1746030/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 97
+  }
+}

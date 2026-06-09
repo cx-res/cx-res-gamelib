@@ -1,0 +1,203 @@
+{
+  "name": "dead-cells",
+  "display_name": "Dead Cells",
+  "app_type": "game",
+  "description": "Dead Cells is a roguelite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.",
+  "developers": [
+    "Motion Twin"
+  ],
+  "publishers": [
+    "Motion Twin"
+  ],
+  "franchise": "",
+  "release_date": "2018-08-07",
+  "website": "https://dead-cells.com/",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "deadcells.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells_gl.exe",
+        "description": "Dead Cells (OpenGL - Legacy)",
+        "type": "option1"
+      },
+      {
+        "executable": "deadcells.sh",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "deadcells.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells_gl.exe",
+        "description": "Dead Cells (OpenGL - Legacy)",
+        "type": "option1"
+      },
+      {
+        "executable": "deadcells.sh",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "deadcells.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells_gl.exe",
+        "description": "Dead Cells (OpenGL - Legacy)",
+        "type": "option1"
+      },
+      {
+        "executable": "deadcells.sh",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "deadcells",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [],
+    "macos": [],
+    "linux": []
+  },
+  "search_terms": [
+    "Dead Cells",
+    "deadcells",
+    "deadcells_gl",
+    "deadcells.sh"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/588650/a431361e5dae5fd6ac2433064b62b2a37abc38f1.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/588650/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_ac28000ade40cc2fe5c128f32ac98ba33c008a7a.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_7bde51ea6c8f6289e85ea1d8c1c941e1f8bfee91.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_e87e72a247918d8493892e035d5e1b4b84470d2f.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_a099416b9f3e09d47c42f87667e6ad6f394ba652.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_a8b0439ad7750cab1bdec86ecef0daa280e9f93f.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_21c61aca6a66745a2abb3f72b93553398fc7fe32.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_ffef382d2a1ace63b82184caf3f6c5b293c66483.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_b7cf2ca21fe3648c53f808b80393cc727815dcc5.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_a109be71f065e166ff33ba43853fba0a0d4753d1.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_6f305b9603c17d31ddcbda4c73add319bf910a41.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_2326cef0a0a81d2fdfe276f78c260222cb5e968c.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_65dde6f056018945351e18f55c3481fa2478547b.1920x1080.jpg?t=1779086887"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/ss_b4d8d567f7bdcccc7195ca71d69f98a78575b96c.1920x1080.jpg?t=1779086887"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Dead Cells - Accolade Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256755089/movie.293x165.jpg?t=1581426951",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/588650/231061/8fe407db503493211097e9898f58ae600559a2a3/1750557235/dash_h264.mpd?t=1581426951"
+    }
+  ],
+  "metacritic": {
+    "score": 89,
+    "url": "https://www.metacritic.com/game/pc/dead-cells?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 588650,
+    "store_url": "https://store.steampowered.com/app/588650/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 97
+  }
+}

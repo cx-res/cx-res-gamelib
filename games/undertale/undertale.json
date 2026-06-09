@@ -1,0 +1,153 @@
+{
+  "name": "undertale",
+  "display_name": "Undertale",
+  "app_type": "game",
+  "description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
+  "developers": [
+    "tobyfox"
+  ],
+  "publishers": [
+    "tobyfox"
+  ],
+  "franchise": "",
+  "release_date": "2015-09-15",
+  "website": "http://undertale.com",
+  "genres": [
+    "Indie",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "UNDERTALE.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UNDERTALE.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "runner",
+        "description": "",
+        "type": "none"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "UNDERTALE.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UNDERTALE.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "runner",
+        "description": "",
+        "type": "none"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "UNDERTALE.exe",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "UNDERTALE.app",
+        "description": "Launch",
+        "type": "default"
+      },
+      {
+        "executable": "runner",
+        "description": "",
+        "type": "none"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [],
+    "macos": [],
+    "linux": []
+  },
+  "search_terms": [
+    "Undertale",
+    "UNDERTALE",
+    "UNDERTALE.app",
+    "runner"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/391540/2ce672b89b63ec1e70d2f12862e72eb4a33e9268.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_6ded97a2c98473ac1e8a2b3c1419d93fb31b1186.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_b9018c41cea2bdfb150609bedfca99b16a5af02a.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_b9ec4c53a8ed37f764649c970757c0a1f4948ec1.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_edab41f7c9fa287b0d90ebfa3b9219fec6e1b3ed.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_a11393d4b437ca75c10521f6baf53fbba9006f0f.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_85d6f0db4b5d6207534120c4b51e37dfd2f8dd83.1920x1080.jpg?t=1757349115"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/ss_9025a366676c26046b1d08e94ab1a73406aa11db.1920x1080.jpg?t=1757349115"
+    }
+  ],
+  "videos": [
+    {
+      "name": "UNDERTALE Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256655616/movie.293x165.jpg?t=1447377566",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/391540/41087/3b1b45530651299a05801d7b2bdb0cae8f077bb0/1750524170/dash_h264.mpd?t=1447377566"
+    }
+  ],
+  "metacritic": {
+    "score": 92,
+    "url": "https://www.metacritic.com/game/pc/undertale?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 391540,
+    "store_url": "https://store.steampowered.com/app/391540/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 96
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "name": "deltarune",
+  "display_name": "DELTARUNE",
+  "app_type": "game",
+  "description": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Chapters 1-5 are available now, with more planned as free updates!",
+  "developers": [
+    "tobyfox"
+  ],
+  "publishers": [
+    "tobyfox"
+  ],
+  "franchise": "",
+  "release_date": "2025-06-04",
+  "website": "http://deltarune.com",
+  "genres": [
+    "Indie",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "Japanese"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "DELTARUNE.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "DELTARUNE.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "DELTARUNE.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "DELTARUNE.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "DELTARUNE",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "com.tobyfox.deltarune",
+        "pattern": "*",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "DELTARUNE",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "com.tobyfox.deltarune",
+        "pattern": "*",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "DELTARUNE",
+    "DELTARUNE.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1671210/f76969de63cf2f4eb11bc4a1c17e67beb590a9c5.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1671210/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_b19eda9efcabf0fe27741eb126427048541780f0.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_3fb0a253a8fa2f08a49f982d8c1e93c283e27f6d.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_0d6b9f18eb6af166ae23a2c6b3148865eedb362d.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_373f7aa9cd0f38423fadc4de77dece8e488bb7b1.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_ba1b1cd502e6a7f8aa5b9d5a39485ff32b84dc23.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/ss_a8ec5f242a7c453fa4937e00c8d73fd0ab20328c.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/a9c094029ad0a5071c3222d8f48d67f924a9a0c2/ss_a9c094029ad0a5071c3222d8f48d67f924a9a0c2.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/e205eb4b6785ea2335629ee3952d14edc102c58b/ss_e205eb4b6785ea2335629ee3952d14edc102c58b.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/45c737112f3ca29493e2baab1b55afebcdd14195/ss_45c737112f3ca29493e2baab1b55afebcdd14195.1920x1080.jpg?t=1782314340"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7e1de510a71791f0c09aa478e452d1d6c8da32f8/ss_7e1de510a71791f0c09aa478e452d1d6c8da32f8.1920x1080.jpg?t=1782314340"
+    }
+  ],
+  "videos": [
+    {
+      "name": "TRAILER_1_4_JP",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121390/709b1d764b7d09775447e5c5daaf55bfb1494b11/movie_600x337.jpg?t=1743604542",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1671210/862419/adeb7b7d3ac2cce7972108e77b01e7c907f89d57/1749168554/dash_h264.mpd?t=1743604542"
+    },
+    {
+      "name": "TRAILER_1-4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257121388/709b1d764b7d09775447e5c5daaf55bfb1494b11/movie_600x337.jpg?t=1743604544",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1671210/862416/d976201bfe6076f0e234989576ab48d32608ce95/1749168553/dash_h264.mpd?t=1743604544"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1671210,
+    "store_url": "https://store.steampowered.com/app/1671210/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 98
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "tactical-breach-wizards",
+  "display_name": "Tactical Breach Wizards",
+  "app_type": "game",
+  "description": "In Tactical Breach Wizards, you lead a team of renegade wizards in kevlar through turn-based battles to unravel a modern conspiracy plot. Combine their unique spells in clever ways, or rewind time to try every crazy plan you can think of to punch a Traffic Warlock through a 4th story window.",
+  "developers": [
+    "Suspicious Developments"
+  ],
+  "publishers": [
+    "Suspicious Developments"
+  ],
+  "franchise": "",
+  "release_date": "2024-08-23",
+  "website": "http://suspicious.dev",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "Tactical Breach Wizards.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "lostdemo/Tactical Breach Wizards.exe",
+        "description": "the Lost Demo (deleted scene)",
+        "type": "option1"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/MissionCheckpoints/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/LevelEditor",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot2/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot2/MissionCheckpoints/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot3/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot3/MissionCheckpoints/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot4/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Suspicious Developments/Tactical Breach Wizards/SaveData/Slot4/MissionCheckpoints/",
+        "pattern": "*.txt",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Tactical Breach Wizards",
+    "lostdemo/Tactical Breach Wizards"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1043810/d0dd5250a8507b64ccb0d42cc1d9aa4ada4b3945.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1043810/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_c3b796b5e159b2ed4078ca74212e627ffa92b111.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_e1a7ace21c2a2f1c38fcb4284aa22c9e0bb12661.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_34f2a9e1f76acbb72a53ddf54d13627cbf41a974.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_e3c68f5a27d841c0c12adcafb04f29dde0908108.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_51ed8b4f2d9d7fa8c8b3c851195f3f7cc1d1607d.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_2862f0012134de2cd564526f4df9fcb77a6075fc.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_f7217e40ce8d96ec11c393fcf0c5de6ac078ba25.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_2d4d753d754ffd834926df3de3e89614444187aa.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_414ca583ee740f8634071cdca7a9b84161050d17.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_3cf63eead9358b4dba39ac01511b2d8bd73dc58e.1920x1080.jpg?t=1777560473"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1043810/ss_4413f2ec2f9d992d1072313eed4e5fb9c13cda91.1920x1080.jpg?t=1777560473"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257029830/movie.293x165.jpg?t=1724174127",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1043810/711645/8c5cdc520b0d04466a6edece0efd645d12094361/1750609427/dash_h264.mpd?t=1724174127"
+    },
+    {
+      "name": "Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257047925/movie.293x165.jpg?t=1724345873",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1043810/743299/230ae47bc1494bbc20cffa3c5dcf3833acde8472/1750609443/dash_h264.mpd?t=1724345873"
+    },
+    {
+      "name": "Act 2 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891873/movie.293x165.jpg?t=1724174131",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1043810/472013/f7987c13b4ab9c6a02b7a5f835927ea84cc7fcdc/1750609424/dash_h264.mpd?t=1724174131"
+    },
+    {
+      "name": "April 2021 beta",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831970/movie.293x165.jpg?t=1724174136",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1043810/364497/c0a0a40abb53ec65d1d14553821099489adebacd/1750609417/dash_h264.mpd?t=1724174136"
+    }
+  ],
+  "metacritic": {
+    "score": 87,
+    "url": "https://www.metacritic.com/game/pc/tactical-breach-wizards?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1043810,
+    "store_url": "https://store.steampowered.com/app/1043810/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 97
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "name": "thronefall",
+  "display_name": "Thronefall",
+  "app_type": "game",
+  "description": "A minimalist game about building and defending your little kingdom.",
+  "developers": [
+    "GrizzlyGames",
+    "Mythwright"
+  ],
+  "publishers": [
+    "Mythwright"
+  ],
+  "franchise": "",
+  "release_date": "2024-10-11",
+  "website": "",
+  "genres": [
+    "Action",
+    "Indie",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "Thronefall.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Thronefall.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Thronefall.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Thronefall.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Grizzly Games\\Thronefall",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Grizzly Games\\Thronefall",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Grizzly Games\\Thronefall",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Grizzly Games\\Thronefall",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Thronefall",
+    "Thronefall.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2239150/33b662f2a7a302f154861643b0e59c87b36a3d5e.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239150/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239150/30c67752700e95ea5a9442db357b87307d9ce5f2/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239150/c9ea108e7630468c60a604ffc61f92237b83a35b/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239150/e67c0fb15d643126f95024e9af964e61ec26a9b2/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2239150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_7755da74d905e510998b08d36eb9758869e2f768.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_77d787378686ca07d9d87a8879a804175738c339.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_1d836fc8d03b3333da83b455b0a7d2f7969f72a2.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_b11d1fc23cbf78bf154c7c3d8bed1be1859c2183.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_f602a7a6900b8f71c6842421cc584659b6db484c.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_31158136c53ff471fc87465b2a8d1a5bd2acc709.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_22bfb0694c5685106f990cb6ec7656e3762a6980.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_d324f236bcba0481d2e038834d9a2e7856e5c85b.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_c5f902749e505f8c23837fe293205373baeff854.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_bf674a41d84fafbfb786e9694f572e22b019963d.1920x1080.jpg?t=1781163871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2239150/ss_4ad91a1b2b1f6af7a9faaa246afee05b31ca5b80.1920x1080.jpg?t=1781163871"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257063854/4c19b1ff83d351f8d3609cd3e5fc26fd60c72b3a/movie_600x337.jpg?t=1770049602",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2239150/754662061/9367c32ab7e1e0abb6a6d199bf09340e37a283e0/1770043147/dash_h264.mpd?t=1770049602"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2239150,
+    "store_url": "https://store.steampowered.com/app/2239150/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 96
+  }
+}

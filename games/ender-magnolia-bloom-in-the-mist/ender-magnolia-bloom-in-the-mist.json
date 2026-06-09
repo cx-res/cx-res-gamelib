@@ -1,0 +1,124 @@
+{
+  "name": "ender-magnolia-bloom-in-the-mist",
+  "display_name": "ENDER MAGNOLIA: Bloom in the Mist",
+  "app_type": "game",
+  "description": "Decades after the events of ENDER LILIES, Homunculi — sorrowful, artificial life forms — roam the land. In this dark fantasy Metroidvania, face formidable enemies and explore a bewitching post-apocalyptic world. Humans and Homunculi — what awaits at the end of the quest for their salvation?",
+  "developers": [
+    "Adglobe",
+    "Live Wire"
+  ],
+  "publishers": [
+    "Binary Haze Interactive"
+  ],
+  "franchise": "",
+  "release_date": "2025-01-22",
+  "website": "https://endermagnolia.com/",
+  "genres": [
+    "Action",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "EnderMagnolia.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "EnderMagnolia/Saved/SaveGames",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "ENDER MAGNOLIA: Bloom in the Mist",
+    "EnderMagnolia"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2725260/f7f425244699418bbf9b36f27f80dec3c9622cd3.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2725260/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2725260/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2725260/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2725260/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2725260/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/ss_c45ee191b30c962810816685b26da70eb9f00caf.1920x1080.jpg?t=1740447961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/ss_243228c3d50d2a8e145f2762f703ee8b536787d0.1920x1080.jpg?t=1740447961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/ss_dceb4c03c9e99b8d645ad5c4b93a8540525f1d5c.1920x1080.jpg?t=1740447961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/ss_4eafac831a7a1f54e5e5d033961501d2d2889261.1920x1080.jpg?t=1740447961"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725260/ss_61a2e57a1c1ec08e6f4a415bcbdcfcb1dceb544e.1920x1080.jpg?t=1740447961"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Final Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257089837/6dfd6f9614b687e2af4efb1d484c40e19bdb725b/movie_600x337.jpg?t=1737171954",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2725260/814256/d3a7a92cc7efb6e0e0e2ad3ceddef2ee0406ed71/1750819281/dash_h264.mpd?t=1737171954"
+    },
+    {
+      "name": "Full Release Announcement Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053407/movie.293x165.jpg?t=1725930034",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2725260/752785/1d519506cc1f80d23e25f514176eabe105eb651b/1750819240/dash_h264.mpd?t=1725930034"
+    },
+    {
+      "name": "Zion_teaser_V04",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257003673/movie.293x165.jpg?t=1708960862",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2725260/667086/0d37690276e6dcd770a78017e20e2f147bc51ba4/1750819236/dash_h264.mpd?t=1708960862"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2725260,
+    "store_url": "https://store.steampowered.com/app/2725260/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Gamepad Recommended",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 95
+  }
+}

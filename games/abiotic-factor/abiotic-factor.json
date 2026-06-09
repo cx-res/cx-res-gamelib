@@ -1,0 +1,256 @@
+{
+  "name": "abiotic-factor",
+  "display_name": "Abiotic Factor",
+  "app_type": "game",
+  "description": "Abiotic Factor is a survival crafting experience for 1-6 players set in the depths of an underground research facility. Caught between paranormal containment failure, a military crusade, and chaos from a dozen realms, the world’s greatest minds must survive against the universe’s biggest threats.",
+  "developers": [
+    "Deep Field Games"
+  ],
+  "publishers": [
+    "Playstack"
+  ],
+  "franchise": "",
+  "release_date": "2025-07-23",
+  "website": "",
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "非生物因素",
+    "tchinese": "非生物因素"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "AbioticFactor.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "AbioticFactor.exe",
+        "description": "Abiotic Factor (DX11 for Lower-End PCs)",
+        "type": "option2"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "AbioticFactor/Saved/SaveGames/{64BitSteamID}/Worlds/",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocal",
+        "path": "AbioticFactor/Saved/SaveGames/{64BitSteamID}/Worlds/",
+        "pattern": "*.ini",
+        "platforms": [],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocal",
+        "path": "AbioticFactor/Saved/SaveGames/{64BitSteamID}/",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocal",
+        "path": "AbioticFactor/Saved/SaveGames/{64BitSteamID}/",
+        "pattern": "*.ini",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Abiotic Factor",
+    "AbioticFactor",
+    "非生物因素"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/427410/789cca4e4e51a6649f5728d870d3a602e3c453fe.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/afe0e6c04aaa67d511a7fffe630aa8a54788c3b3/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/eeb109a000f24c00855d057f2abefa04f339e557/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/4efcc96baf16f041355da7ece929f2f79f9f50b9/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/8177ceb0ea9c18d8fcbc561758be19fb06985471/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427410/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f57e6a13592c1dee5d903218e31d4add71dbaa83.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_a0858ca74b521e17bc923f94d6e77c6ff224da2f.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/57a1ab194abcbb53d007e2a467b6a3a0118a8e35/ss_57a1ab194abcbb53d007e2a467b6a3a0118a8e35.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/702ec91ec4e414f11204895bf661ad3e0d84d69a/ss_702ec91ec4e414f11204895bf661ad3e0d84d69a.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_d8b3b99a793ebcbac59b7cca8bd14310d2fd0b06.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/7dc96fef7bd039d4c36d7d60f83f9bc908f5754c/ss_7dc96fef7bd039d4c36d7d60f83f9bc908f5754c.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_b642195f2863c651e73946c15fbc8c496b86aa79.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_edff95d80cb8d88f6c6759220982b3a6f010fc1f.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_3d280b93f23e97a6dd4e2fc789cdc6fc4d0e341e.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_4e6099ecfa90a761221c212d7670cfb5c1b18367.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_8fe3ff07d0f57040d9b3b4d0792609cbe196dd80.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_a84d6ccae21eac810f54e97620ad38c36a86803a.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_da6d08b6c3db869e6d98e1bfa0724d5b11ebaf23.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_5b1ffd85d69883280032f0a0db6f24837169da1b.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_f2801dbcc4668818174e8881bd2323bcbd90fe48.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_a31900352b6f94a54eef796965bf93d052f82429.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_24cc9700a029d01ac7b02b33d2caa9836145cbd7.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_b1a0125739f10bd5558dcde78c5811ba8eaebdb0.1920x1080.jpg?t=1780862501"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427410/ss_fa17266f4428fc6a8b56b4afe04a54e797e682b5.1920x1080.jpg?t=1780862501"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Cosmic Companions",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257331085/97ed98b405c9dffdff826558c152dd512152b401/movie_600x337.jpg?t=1777914033",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/1708069148/f4487052be58c80536fcd8a87b2efb7d371b3574/1777875543/dash_h264.mpd?t=1777914033"
+    },
+    {
+      "name": "Abiotic Factor - Cold Fusion | 1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257172169/0869094435a3118b8015fddcf5cac21ee78b2f33/movie_600x337.jpg?t=1753203386",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/224664536/1f7f922a0395aba39ca5e1a5442f1da32ca93726/1753158448/dash_h264.mpd?t=1753203386"
+    },
+    {
+      "name": "Holiday Cryosphere",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257250246/2926ada99614c5d666f76596dc692036dabf11e8/movie_600x337.jpg?t=1774307769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/1713168287/f51eefbe7d0dbdc81230b2211561025e434b5efe/1765822174/dash_h264.mpd?t=1774307769"
+    },
+    {
+      "name": "Abiotic Factor - 1.0 Release Date",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257161973/84232b554881c90be01ec6877ded6e8cd7258d8e/movie_600x337.jpg?t=1774307770",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/368226427/3d071964d22ed9b9f281132f03e50def3e7eeb6f/1750956689/dash_h264.mpd?t=1774307770"
+    },
+    {
+      "name": "Dark Energy Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257094726/0b6340e3fe4c841f5dad6cb6d855eec9e4cc26b5/movie_600x337.jpg?t=1738695731",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/823031/8625b07194a9393eb042c00cceacdba76e51bcff/1750529708/dash_h264.mpd?t=1738695731"
+    },
+    {
+      "name": "Dark Energy Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079402/788d6b7b2ba9d38feb38275877f8b43166cc91a1/movie_600x337.jpg?t=1733436769",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/795785/e9e72d4addabd76da79d3ef31576998ca42d64fb/1750529708/dash_h264.mpd?t=1733436769"
+    },
+    {
+      "name": "Crush Depth Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257045572/movie.293x165.jpg?t=1723482065",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/739306/30845e6e6621c3cfe179def91b74612977989bc4/1750529692/dash_h264.mpd?t=1723482065"
+    },
+    {
+      "name": "Abiotic Factor | Early Access Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257020402/movie.293x165.jpg?t=1714672042",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/695232/a384f8db7556a83581803ae5f76a70e3a11fe8dd/1750529691/dash_h264.mpd?t=1714672042"
+    },
+    {
+      "name": "Abiotic Factor | Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996540/movie.293x165.jpg?t=1706209835",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/654612/85ca22af3f023c375d32d1968152a7f5b0e6d33c/1750529672/dash_h264.mpd?t=1706209835"
+    },
+    {
+      "name": "Announce Trailer | Playtest Sign-ups Open",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965556/movie.293x165.jpg?t=1692817127",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/600412/3e15c378e0a44565bcc9397608fd69ac05ab9111/1750529667/dash_h264.mpd?t=1692817127"
+    },
+    {
+      "name": "March 1993",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256952299/movie.293x165.jpg?t=1686575169",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/577202/24d1670d1783c4aef61a8c5e9b86d213defa7b5f/1750529650/dash_h264.mpd?t=1686575169"
+    },
+    {
+      "name": "First Day",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256938068/movie.293x165.jpg?t=1684193645",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/427410/552386/ef54cff3add91a66069d11544cc52f8a27ca0ac5/1750529620/dash_h264.mpd?t=1684193645"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 427410,
+    "store_url": "https://store.steampowered.com/app/427410/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Subtitle Options",
+      "Surround Sound",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 95
+  }
+}

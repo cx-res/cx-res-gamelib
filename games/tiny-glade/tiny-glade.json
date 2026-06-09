@@ -1,0 +1,265 @@
+{
+  "name": "tiny-glade",
+  "display_name": "Tiny Glade",
+  "app_type": "game",
+  "description": "Tiny Glade is a small diorama builder where you doodle whimsical castles, cozy cottages &amp; romantic ruins. Explore gridless building chemistry as the game adorns your glades with procedural detail. No management, combat or goals: just kick back and turn forgotten meadows into lovable dioramas.",
+  "developers": [
+    "Pounce Light"
+  ],
+  "publishers": [
+    "Pounce Light"
+  ],
+  "franchise": "",
+  "release_date": "2024-09-23",
+  "website": "https://pouncelight.games/tiny-glade/",
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "English",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Japanese",
+    "Norwegian",
+    "Polish",
+    "Portuguese - Brazil",
+    "Russian",
+    "Swedish",
+    "Simplified Chinese",
+    "Ukrainian",
+    "Italian",
+    "Turkish",
+    "Korean"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "tiny-glade.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "TinyGlade.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "tiny-glade.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "TinyGlade.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "tiny-glade.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Graphics card selector",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade.exe",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "tiny-glade",
+        "description": "Vulkan extension settings",
+        "type": "config"
+      },
+      {
+        "executable": "TinyGlade.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinSavedGames",
+        "path": "Tiny Glade/Steam/{64BitSteamID}/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinSavedGames",
+        "path": "Tiny Glade/Steam/{64BitSteamID}/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinSavedGames",
+        "path": "Tiny Glade/Steam/{64BitSteamID}/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Tiny Glade",
+    "tiny-glade",
+    "TinyGlade.app"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2198150/cabab057d40458476ae363e7c6b8281d561cde7f.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2198150/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2198150/04e34a74d1939044b8ab95afb5144bc4fd841300/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2198150/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2198150/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2198150/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_1a98b0d5e8111f100b3ececda8f682333337e3cb.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_6a8c7a510715796a659bd9fd828cc02cf73e11de.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_c9086858afd32f9c2bd49c164ddc2494af1e7f31.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_83248b45f1431127f94ab7bcfc246e5efb26848e.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_ed5a338f98da1acd76d232e581e7ca0c2e088958.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_533b0699cd1d6692cfa332f234ce03a36c547480.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_6dd1a3c571d91d81ee60cda2f21a553dc8fc6e70.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_ed8d49e1bdc02b0c8caadb66e06b6d6ad6218c1f.1920x1080.jpg?t=1782371576"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198150/ss_2ec8d6fd1be5aa321e0b82ae33f8a766db94535b.1920x1080.jpg?t=1782371576"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Tiny Glade Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257046593/movie.293x165.jpg?t=1723747224",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2198150/741058/2a1e922ec1b8dcd165946ccd3184f46275b5a541/1750809548/dash_h264.mpd?t=1723747224"
+    },
+    {
+      "name": "Tiny Glade Gameplay Trailer - Future Games Show at Gamescom 2023",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256965562/movie.293x165.jpg?t=1692820872",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2198150/600423/b629270d984cd6a711148ec9c3307bb254e6ba48/1750809548/dash_h264.mpd?t=1692820872"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2198150,
+    "store_url": "https://store.steampowered.com/app/2198150/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Camera Comfort",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Steam Input API Support",
+      "Stereo Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_positive_percent": 97
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "name": "sanabi",
+  "display_name": "SANABI",
+  "app_type": "game",
+  "description": "SANABI is an exhilarating stylish dystopian action-platformer. Play as a legendary retired veteran and use your signature prosthetic arm to jump over cliffs and skyscrapers, zip through bullets and traps and defeat powerful enemies.",
+  "developers": [
+    "WONDER POTION"
+  ],
+  "publishers": [
+    "NEOWIZ"
+  ],
+  "franchise": "",
+  "release_date": "2023-11-09",
+  "website": "https://playneowiz.com/sanabi",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "koreana": "산나비",
+    "schinese": "闪避刺客"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "SNB.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Wonder Potion/SNB",
+        "pattern": "*.data",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "SANABI",
+    "SNB",
+    "산나비",
+    "闪避刺客"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1562700/f57bf09ea64fc813ddb46e4440f8f89f953b9c77.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1562700/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_9309623510d853bf750877457f863e45eb7c6cbe.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_dc42526e8a4db7c389494d0a14d5c21da1974c51.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_3b7f6ffbdf8d80e288c452d1c619916dc3ba36ab.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_4c2d1c53e327b002eb10d544d45a6b01381c3f95.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_883d35689221a08ccb88cc9d6915c4f25376ea2b.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_a2622d9f393597e6e61cd25520a4b23e77a29192.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_0dd29b06d3816a7f8973ed1f6e504fbc7b6b32dd.1920x1080.jpg?t=1764564242"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_070f0842cdda7efc85511cfeb9f8dc5534b4d72e.1920x1080.jpg?t=1764564242"
+    }
+  ],
+  "videos": [
+    {
+      "name": "official_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256979861/movie.293x165.jpg?t=1699000777",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562700/625467/6a47d0e80e73fcd6e462bb4e9720c2c125ebe273/1750701561/dash_h264.mpd?t=1699000777"
+    },
+    {
+      "name": "EA_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891447/movie.293x165.jpg?t=1655097729",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562700/471384/db8c48cdb123d10e5eb226a6589688e862459d8e/1750701561/dash_h264.mpd?t=1655097729"
+    },
+    {
+      "name": "prologue_trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256881279/movie.293x165.jpg?t=1649405418",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562700/453622/f5eef579702758f4d5339a0b5a4e21c2f05e5241/1750701558/dash_h264.mpd?t=1649405418"
+    },
+    {
+      "name": "Reveal_EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256825411/movie.293x165.jpg?t=1615440244",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1562700/353303/99e63ac897d7745be9dbec1f68079436c0e966fd/1750701543/dash_h264.mpd?t=1615440244"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1562700,
+    "store_url": "https://store.steampowered.com/app/1562700/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_positive_percent": 97
+  }
+}

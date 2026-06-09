@@ -1,0 +1,140 @@
+{
+  "name": "miside",
+  "display_name": "MiSide",
+  "app_type": "game",
+  "description": "Let's imagine that you have a game in which you care for a character. But could you imagine one day getting into that game yourself?",
+  "developers": [
+    "AIHASTO"
+  ],
+  "publishers": [
+    "IndieArk",
+    "Shochiku (Japan)"
+  ],
+  "franchise": "",
+  "release_date": "2024-12-11",
+  "website": "",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "swedish",
+    "hungarian",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "米塔 MiSide",
+    "japanese": "MiSide : ミサイド"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "MiSideFull.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": []
+  },
+  "search_terms": [
+    "MiSide",
+    "MiSideFull",
+    "米塔 MiSide",
+    "MiSide : ミサイド"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/2527500/c262acd97d45a10d3102cb654dace25af7b05977.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7d0dff5dd742b106889cde15fff3be6c4d521bb1.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_4887e0489485c5ed91ff192fe927a3d7470a29f0.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_f56c830c4c670a0607d6d9cfe6e2199943b4b96a.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_a2a64803e6c0160a1f290f4bd0d94cc83bbb42fa.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_31af73d2dd9af2608463c5a39158c3e0adf277ae.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7f327615a5938bea292a6307dc10edb152023e52.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_b65b001751579fcfb3bc1d77899a71d83186a079.1920x1080.jpg?t=1775398413"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527500/ss_0052fb30551d9d7bb6e342ee47005f57856d0a16.1920x1080.jpg?t=1775398413"
+    }
+  ],
+  "videos": [
+    {
+      "name": "MiSide Trailer with JP voice",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257088481/9b394541ae710306d0f4760a68ea176642ae3108/movie_600x337.jpg?t=1737022886",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2527500/811756/97fb5b284ddfc4f70a71f9e8543825f14b32c07a/1750816529/dash_h264.mpd?t=1737022886"
+    },
+    {
+      "name": "MiSide Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078176/539e237835d832bef27be978620d270bb0214453/movie_600x337.jpg?t=1733122881",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2527500/793724/fe5c4ff514c89f1e0046d8fca440e4b9778a63a5/1750816522/dash_h264.mpd?t=1733122881"
+    },
+    {
+      "name": "MiSide Teaser",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256959478/movie.293x165.jpg?t=1691133052",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/2527500/589802/aec10c859ebaa86a9cf449e6096f6f67504db4e7/1750816519/dash_h264.mpd?t=1691133052"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 2527500,
+    "store_url": "https://store.steampowered.com/app/2527500/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "top_review_rank": 1,
+    "review_positive_percent": 97,
+    "review_total": 25270
+  }
+}

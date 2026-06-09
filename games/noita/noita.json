@@ -1,0 +1,275 @@
+{
+  "name": "noita",
+  "display_name": "Noita",
+  "app_type": "game",
+  "description": "Noita is a magical action roguelite set in a world where every pixel is physically simulated. Fight, explore, melt, burn, freeze and evaporate your way through the procedurally generated world using spells you've created yourself.",
+  "developers": [
+    "Nolla Games"
+  ],
+  "publishers": [
+    "Nolla Games"
+  ],
+  "franchise": "",
+  "release_date": "2020-10-16",
+  "website": "http://noitagame.com",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "russian",
+    "japanese",
+    "polish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "noita.exe",
+        "description": "Starts the game (normally)",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save01",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save02",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/world",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/persistent",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/stats",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/persistent/bones_new",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/persistent/flags",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save00/persistent/orbs_new",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save03",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save04",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save05",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Nolla_Games_Noita/save06",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Noita",
+    "noita"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/881100/a21dbd1d3bd01f0a688f2d7029978d5cdbe14e74.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/881100/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_626b401fd6d78ab335ecb8ff1e4b0a8ce7d25f66.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_96308c4c5951740a0e46e0aa66e67bd04e99286a.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c02b4406a18dc2e3fe213a6c1948d975ba191985.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c9c81f5abbc75b9e5408c23d44bfab14e6759cb7.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_c65fea857e3a2168c0c103952f0955094aacf329.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_56b342c3dbddae9409f6af8582cfa804de3e1229.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_a2797d36d19106bde83824e84dfb6694aeed6bba.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_d980d141e724c23f4d937790e0f924f05f268edf.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_dc5634f88ad0a679d78837f307eebc409b606a28.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_8caab0d64091e3bae9994aa14466d89914dff455.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_eb8db80705ffffd2d442c2eba518d21b7360df08.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_6f520e3688a1c5d28763d534c96d72379c7c407b.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_d9a9d57f12f8f7f4780c309c1fcd5ed6c8b3f102.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_434b0355830a7b267a8409d6bbd7dd21c6acf7eb.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_1317b5027520feb6ae56606809bfc4c01ba14760.1920x1080.jpg?t=1675987871"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881100/ss_d370ade2a95c503384820b34018e0f16cf19772e.1920x1080.jpg?t=1675987871"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Noita - 1.0 Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256804553/movie.293x165.jpg?t=1602783173",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881100/318644/b853dbe56ac169124a412e8ce28bac0b89558f33/1750592906/dash_h264.mpd?t=1602783173"
+    },
+    {
+      "name": "Noita - Early Access Launch Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256760563/movie.293x165.jpg?t=1567094719",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881100/240657/96ac3e95adbdaa98e4bef73261fced325279ca67/1750592883/dash_h264.mpd?t=1567094719"
+    },
+    {
+      "name": "Noita - Snowy Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256770609/movie.293x165.jpg?t=1576791732",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881100/258487/44564ee5945ad7b28be6b77450f3f2a587f70808/1750592893/dash_h264.mpd?t=1576791732"
+    },
+    {
+      "name": "Noita - Reveal Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256719186/movie.293x165.jpg?t=1528724714",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/881100/167201/82688f304e324c53c84f25adbc13fc762fb38c4e/1750592879/dash_h264.mpd?t=1528724714"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 881100,
+    "store_url": "https://store.steampowered.com/app/881100/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "top_review_rank": 1,
+    "review_positive_percent": 95,
+    "review_total": 46638
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "name": "satisfactory",
+  "display_name": "Satisfactory",
+  "app_type": "game",
+  "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+  "developers": [
+    "Coffee Stain Studios"
+  ],
+  "publishers": [
+    "Coffee Stain Publishing"
+  ],
+  "franchise": "",
+  "release_date": "2024-09-10",
+  "website": "https://www.satisfactorygame.com/",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "thai",
+    "japanese",
+    "portuguese",
+    "polish",
+    "danish",
+    "dutch",
+    "finnish",
+    "norwegian",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "arabic",
+    "brazilian",
+    "bulgarian",
+    "ukrainian",
+    "vietnamese",
+    "indonesian"
+  ],
+  "name_localized": {
+    "schinese": "幸福工厂",
+    "tchinese": "滿意工廠"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "FactoryGameSteam.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "FactoryGameSteam.sh",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "FactoryGame.exe",
+        "description": "Legacy",
+        "type": "option1"
+      },
+      {
+        "executable": "FactoryGame.sh",
+        "description": "Legacy",
+        "type": "option1"
+      },
+      {
+        "executable": "FactoryCookedEditor.exe",
+        "description": "Internal Tools",
+        "type": "option1"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocal",
+        "path": "FactoryGame/Saved/SaveGames/{64BitSteamID}",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Satisfactory",
+    "FactoryGameSteam",
+    "FactoryGameSteam.sh",
+    "FactoryGame",
+    "FactoryGame.sh",
+    "FactoryCookedEditor",
+    "幸福工厂",
+    "滿意工廠"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/526870/ee3406fe5ec813b1987ad67e37e5cd6fb4f620e6.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/fe7cbb345c177f83f829a61f0e0ab951b42c7ab1/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/8968499686cff74b539c70ca1b44d671562d63dc/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/526870/ee5bd9fc6c7d0301676808624324c0ba633afd61/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_6f456011887f970dc230af5e1720065ca3430aae.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_b1104309f1c22c85de6ad6c401e6d889411c14d2.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_3f47e401fc3e09fd86500d2026da954de08a015b.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_077e7ea98621faeb5b4a73ea0aaa91f41c6f66c9.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_cff8791f06839134d09f4c865758193a7023b92f.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_9bd0410b1f4bbc26996d7082e20a0f7cb9002988.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_306f1c5828e3afeccea89f1d1f0e3f954a042bd7.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_d3ae27c85447a7eadd25b567d321e480252b2ef9.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_27d0900a30162e97241d0643b8476d02cd453a05.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_279a1e122f86b7c98931b42e38cac0fa91b996ce.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_c5d0d0c28593fee365901473c66fed6b5370ed9f.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_c42d82beff342eb1ce7a40b3015a27968655df40.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_96ec2963bd53dce761c2c0126dee97209274e72c.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_324fb3d8774ef3eadba136d4eae8c01cbdf14a83.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_6c410d20a203c68554c3b1b25e686c9fa7506070.1920x1080.jpg?t=1780413533"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/ss_b3609e0de9c0af3953b2c53bb9e7a741ad924948.1920x1080.jpg?t=1780413533"
+    }
+  ],
+  "videos": [
+    {
+      "name": "1.2 Update",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257348587/882ab11edd9a7d03707866b3668f353664b1c829/movie_600x337.jpg?t=1780412594",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/462238411/2d668f54a6bd38f6653385c250d3050f98b1d684/1780411278/dash_h264.mpd?t=1780412594"
+    },
+    {
+      "name": "1.0!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257053861/movie.293x165.jpg?t=1725980382",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/753593/79f874ad17faa4ceebc26380fc79a1adafcec294/1750544336/dash_h264.mpd?t=1725980382"
+    },
+    {
+      "name": "Update 6",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256906919/movie.293x165.jpg?t=1663699708",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/498097/a5c308b5b3c8dd6a71956da6117f5a3027c6ec20/1750544333/dash_h264.mpd?t=1663699708"
+    },
+    {
+      "name": "Update 5",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256861712/movie.293x165.jpg?t=1637686916",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/419241/bcdd68ae38a9be702d0d47da740bbe1206ab48e4/1750544283/dash_h264.mpd?t=1637686916"
+    },
+    {
+      "name": "Update 4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830300/movie.293x165.jpg?t=1618397318",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/361661/18401096a859b7fe5c756477ae5067efbb935ef6/1750544183/dash_h264.mpd?t=1618397318"
+    },
+    {
+      "name": "Snutt VO",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256788184/movie.293x165.jpg?t=1591635898",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/290780/ee5dd6de0bcd0f104120e5122bd8ee265c09e902/1750544179/dash_h264.mpd?t=1591635898"
+    },
+    {
+      "name": "Update 3",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256774877/movie.293x165.jpg?t=1581455310",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/266429/354ffc0e8495365cd2e63c029d60945d37f41f39/1750545118/dash_h264.mpd?t=1581455310"
+    },
+    {
+      "name": "Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256719496/movie.293x165.jpg?t=1581455130",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/526870/167692/82acbe16189217b55da580bd547f19c6b1aa80aa/1750544137/dash_h264.mpd?t=1581455130"
+    }
+  ],
+  "metacritic": {
+    "score": 91,
+    "url": "https://www.metacritic.com/game/pc/satisfactory?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 526870,
+    "store_url": "https://store.steampowered.com/app/526870/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Playable without Timed Input",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "partial",
+    "review_positive_percent": 97
+  }
+}

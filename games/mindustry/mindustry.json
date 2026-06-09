@@ -1,0 +1,316 @@
+{
+  "name": "mindustry",
+  "display_name": "Mindustry",
+  "app_type": "game",
+  "description": "An open-ended factory management game with RTS and tower defense elements.",
+  "developers": [
+    "AnukenDev"
+  ],
+  "publishers": [
+    "AnukenDev"
+  ],
+  "franchise": "",
+  "release_date": "2019-09-27",
+  "website": "",
+  "genres": [
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "portuguese",
+    "polish",
+    "hungarian",
+    "czech",
+    "romanian",
+    "turkish",
+    "brazilian",
+    "ukrainian",
+    "vietnamese",
+    "indonesian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "Mindustry",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.app/Contents/MacOS/Mindustry",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Mindustry",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.app/Contents/MacOS/Mindustry",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "Mindustry",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Mindustry.app/Contents/MacOS/Mindustry",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "gameinstall",
+        "path": "saves",
+        "pattern": "settings.bin",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/maps",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/schematics",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*.msav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/mods",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "gameinstall",
+        "path": "saves",
+        "pattern": "settings.bin",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/maps",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/schematics",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*.msav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/mods",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "linux": [
+      {
+        "root": "gameinstall",
+        "path": "saves",
+        "pattern": "settings.bin",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/maps",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/schematics",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/saves",
+        "pattern": "*.msav",
+        "platforms": [],
+        "recursive": false
+      },
+      {
+        "root": "gameinstall",
+        "path": "saves/mods",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Mindustry",
+    "Mindustry.app/Contents/MacOS/Mindustry"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1127400/1abc85522939efd31f3439302e64f673ba2424a5.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/98714db25e9ef5a6ea3d39cd0709a60aae41e8dd/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1127400/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_19dbb62a615fc63788cf499ab948947fe365a9d2.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_e072ee95cfadac2674575814218137caaad2ee69.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_d332d08a91caa2a8fe9504c3e11f15ec220d521c.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_6dec4c801cd7ddca04a04ad97a0e85e4c315f9a2.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_4394351c612e1114b2b3d945e2b2d80d00bb2dcb.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_5746f12da344754ae860d24e800cdb7536d01ce4.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_d73367d8ca6ba91297c3ca4e10974c767431d3f1.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_7fe22e4c65f08f89b19114d57c3e6a7f1ce32bcc.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_60ce5e4199fc5cf8514c24fc9e3a68a1dc70cdd9.1920x1080.jpg?t=1776201279"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1127400/ss_2038ebdeb9339ede1a075bde0e9f81ffdbc1ae72.1920x1080.jpg?t=1776201279"
+    }
+  ],
+  "videos": [
+    {
+      "name": "v7",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256915754/movie.293x165.jpg?t=1668166004",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1127400/513005/22b13cc59ae5b80da4b408e84ca9893f93af2cc0/1750624352/dash_h264.mpd?t=1668166004"
+    },
+    {
+      "name": "Main",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762433/movie.293x165.jpg?t=1569011776",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1127400/243795/6f55c78ff14537558a09c8479adc5f141209da15/1750624345/dash_h264.mpd?t=1569011776"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1127400,
+    "store_url": "https://store.steampowered.com/app/1127400/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 95
+  }
+}

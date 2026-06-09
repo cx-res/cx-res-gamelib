@@ -1,0 +1,214 @@
+{
+  "name": "escape-from-duckov",
+  "display_name": "Escape from Duckov",
+  "app_type": "game",
+  "description": "Escape from Duckov is a PVE indie survival RPG — in a duck's world!. Scavenge for resources, build your hideout, and upgrade your gear in the world of Duckov. Start from nothing and rise to the top. Outwit hostile ducks, survive, or make it out alive.",
+  "developers": [
+    "Team Soda"
+  ],
+  "publishers": [
+    "bilibili"
+  ],
+  "franchise": "",
+  "release_date": "2025-10-16",
+  "website": "https://game.bilibili.com/duckov/",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "koreana",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam",
+    "sc_schinese"
+  ],
+  "name_localized": {
+    "schinese": "逃离鸭科夫",
+    "english": "Escape From Duckov",
+    "tchinese": "逃離鴨科夫",
+    "sc_schinese": "逃离鸭科夫",
+    "japanese": "エスケープ フロム ダッコフ"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Duckov.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Duckov.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Duckov.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Duckov.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "TeamSoda/Duckov/",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "TeamSoda/Duckov/",
+        "pattern": "*.sav",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Escape from Duckov",
+    "Duckov",
+    "Duckov.app",
+    "逃离鸭科夫",
+    "Escape From Duckov",
+    "逃離鴨科夫",
+    "エスケープ フロム ダッコフ"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3167020/5bb8d31708442a8f3ddbc100d7be7c3fde530d18.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/3c797aea37aa81aea663767e432236418bc1ce82/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/495690605e6e484c2200f8be245d070d88f2ecf3/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/0f90f3ab5c151dc6c30dbfa5e9385e52de05628e/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3167020/df7102a6078c104adc13c4aab9e07bae989e1dc8/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_f89c284a734b7307df490813df82d4f85a981299.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_ffb859764420f62c612287f011361749a06b6432.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_b822619832ab8d2337b7e31a77c4311a5d168a97.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_0f96530f53f858cbaf4de595cb1a95ec6d016b26.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_67e534105478e4fe28ef84043f4a5db5ebb8bda5.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_da9e3ec33fdae7d02e4a2482321cf5376aafd6ee.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_915c641c0efd97c7bbf0fef8fda2e67d7302a4c7.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_1fb04be631e3a74388048ccc9edd3fc647b65fe3.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_74be0df73ad41df516cb6c15c5544b59e6c6d12b.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_8cc96855f6e1a98e0519b454f0bcc564f8af14c1.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_00ee2a872830a1501268a64e5387ed26e11edc69.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_d074e1d3599aa5a110e51a9940fb9796e59c9c6e.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_606973e64a7c1dfb285af4f13acca7473e9527e7.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_8a08d8894e9495c271380b474e7c0f5a0f29a4b0.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/ss_47d2c118298e89d3a281199b5311d0ae805716cf.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/f57649a0c39d040b74dffe87eb1a6296f1ba1634/ss_f57649a0c39d040b74dffe87eb1a6296f1ba1634.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/d26dfb6c4f31da52eeef88fe3a2da57c57beca34/ss_d26dfb6c4f31da52eeef88fe3a2da57c57beca34.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/adc68ef8a4046389d239f52b7274b62b30025261/ss_adc68ef8a4046389d239f52b7274b62b30025261.1920x1080.jpg?t=1772618681"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167020/b8d55e3e9713ccccd35ba1ed0573d64397acd774/ss_b8d55e3e9713ccccd35ba1ed0573d64397acd774.1920x1080.jpg?t=1772618681"
+    }
+  ],
+  "videos": [
+    {
+      "name": "EN_PV4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220377/6706eb4d4a20c1699f28e9d069fef0baf34b5b99/movie_600x337.jpg?t=1761034361",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3167020/35421272/5f11b29c042e3414fd59310e529931fbbb009161/1761032419/dash_h264.mpd?t=1761034361"
+    },
+    {
+      "name": "en_pv1",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257147038/c644c2d6b3d434bcf434ad2f4176870f82a13b71/movie_600x337.jpg?t=1748433297",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3167020/1848407350/c8f6d273b42bea920b836685c1bdd11c90fb2601/1750877040/dash_h264.mpd?t=1748433297"
+    },
+    {
+      "name": "en_pv",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257091171/26d91b8ecb21bcbc0ab11cccbd6f9545d536cfd7/movie_600x337.jpg?t=1737539162",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3167020/816661/9ec7a46766b3979bf8e3f5acc57c63cba7f5fd26/1750877034/dash_h264.mpd?t=1737539162"
+    },
+    {
+      "name": "宣传片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078723/eca41f6c94038b677dc7d4cd8a2ea8e5cdc3fb0a/movie_600x337.jpg?t=1737718950",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3167020/794763/6ddf9dccd5db15526e045cb33f0804dbc995d85f/1750877033/dash_h264.mpd?t=1737718950"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3167020,
+    "store_url": "https://store.steampowered.com/app/3167020/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Custom Volume Controls",
+      "Adjustable Difficulty",
+      "Stereo Sound",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": true,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "top_review_rank": 1,
+    "review_positive_percent": 93,
+    "review_total": 10203
+  }
+}

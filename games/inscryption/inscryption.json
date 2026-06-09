@@ -1,0 +1,229 @@
+{
+  "name": "inscryption",
+  "display_name": "Inscryption",
+  "app_type": "game",
+  "description": "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards...",
+  "developers": [
+    "Daniel Mullins Games"
+  ],
+  "publishers": [
+    "Devolver Digital"
+  ],
+  "franchise": "",
+  "release_date": "2021-10-19",
+  "website": "https://www.inscryption-game.com",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "邪恶冥刻"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Inscryption.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "For QA Testing",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86",
+        "description": "For QA Testing",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "Inscryption.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "For QA Testing",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86",
+        "description": "For QA Testing",
+        "type": "default"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "Inscryption.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86_64",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.app",
+        "description": "For QA Testing",
+        "type": "default"
+      },
+      {
+        "executable": "Inscryption.x86",
+        "description": "For QA Testing",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "gameinstall",
+        "path": "",
+        "pattern": "SaveFile.gwsave",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "gameinstall",
+        "path": "",
+        "pattern": "SaveFile.gwsave",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "gameinstall",
+        "path": "",
+        "pattern": "SaveFile.gwsave",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Inscryption",
+    "Inscryption.app",
+    "Inscryption.x86_64",
+    "Inscryption.x86",
+    "邪恶冥刻"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1092790/25c02dcbabe97febe787797195099325a4d47935.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1092790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_0191a69b0e94a9a7784f5b81e27f06379910645a.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_3b714682e9e0a214df1630a234e9f6764528eece.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_7bfe728822807d232398df1cb1a5d64addd3d8fb.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_79a146c36a3f0b728a8e0085327cec8c7fba82d6.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_738220c84b63522c4ca8c77fbff1ddb252ea0fe9.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_e3338b329e4d92b56121f2e849486ee805a56169.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_5fd7a0e8967cdd05264988c6b397e18f99e78eef.1920x1080.jpg?t=1777572925"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092790/ss_1db397016a48d454a7f65b18b88b7775d202c853.1920x1080.jpg?t=1777572925"
+    }
+  ],
+  "videos": [
+    {
+      "name": "Inscryption - Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256795106/movie.293x165.jpg?t=1597161792",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1092790/302287/ab0d21c6b888e99deba7fb8ca48e0f34ebba0332/1750618102/dash_h264.mpd?t=1597161792"
+    },
+    {
+      "name": "Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256852985/movie.293x165.jpg?t=1711536013",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1092790/403882/734d67fdb26f3a44d766eea69eb1354b5cc4e984/1750618115/dash_h264.mpd?t=1711536013"
+    }
+  ],
+  "metacritic": {
+    "score": 85,
+    "url": "https://www.metacritic.com/game/pc/inscryption?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1092790,
+    "store_url": "https://store.steampowered.com/app/1092790/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 96
+  }
+}

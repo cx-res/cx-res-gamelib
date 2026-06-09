@@ -1,0 +1,162 @@
+{
+  "name": "the-planet-crafter",
+  "display_name": "The Planet Crafter",
+  "app_type": "game",
+  "description": "A space survival open world terraforming crafting game, designed for 1 to 10 players. Alter the ecosystem of an inhospitable planet to render it habitable for humanity. Survive, gather resources, and build your base. Then, generate oxygen, warmth, and pressure to create a brand new biosphere.",
+  "developers": [
+    "Miju Games"
+  ],
+  "publishers": [
+    "Miju Games"
+  ],
+  "franchise": "",
+  "release_date": "2024-04-10",
+  "website": "",
+  "genres": [
+    "Adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English*",
+    "French",
+    "German",
+    "Spanish - Spain",
+    "Simplified Chinese",
+    "Russian",
+    "Polish",
+    "Portuguese - Portugal",
+    "Korean",
+    "Japanese",
+    "Portuguese - Brazil",
+    "Italian",
+    "Traditional Chinese",
+    "Turkish*languages with full audio support"
+  ],
+  "name_localized": {
+    "schinese": "星球工匠"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Planet Crafter.exe",
+        "description": "",
+        "type": "none"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "MijuGames/Planet Crafter",
+        "pattern": "*.json",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "MijuGames/Planet Crafter",
+        "pattern": "*.json",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "The Planet Crafter",
+    "Planet Crafter",
+    "星球工匠"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1284190/95278d64933f5420aff962bba6770478cc29e74b.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/222d70290d7be33cd553e4767871371828738af9/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/2d00fd6853d1ad7e1ebc0def698191d0f8ad7483/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/3307cc7300294a990ed7c08a2a380ff567374850/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1284190/b74aa0efaa84084359c8805498850e55be608646/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_4d9dc40278682339d3687ab7489935e2fc2ad2f8.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_f212f88a36949b32fe343348f78fef1b78c93b2e.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_59b42b52f5bda0118ab0337665e66fa7ea1fc034.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_fa893e550c816e6ac478a6909ea6b420d81dbc16.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_f3b233e3c5f7640678e1021626f8bf639df0f0ec.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_36eda137febffc643aea3e2cfc3a2c0f20e594a3.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_290e0045754f190a6e3f32ed1866d55c93e8da5e.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_2f2df5084b59f88a4cab552065a9618551a0a8ff.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_f2490c6e87570eb1b5e155402b3a43734b7bb19f.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_a0048064ddcb0f41df45356f0df5a9117a0ddb2b.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_805e3906ca87927277ebe2f88dffee1c79eb6259.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_c2dae9c04d4d54669a9101a26ce38a46eb859cb0.1920x1080.jpg?t=1782401581"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284190/ss_deadc9c730c0069c6c610c04ebc0e6917656c785.1920x1080.jpg?t=1782401581"
+    }
+  ],
+  "videos": [
+    {
+      "name": "2.0 Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257360232/a9a1ef9223bec998e9239489c262da9613e024a0/movie_600x337.jpg?t=1781614917",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1284190/1489586438/d3d8ce6824f4344e6552fcc67415be5126c7fc50/1781602540/dash_h264.mpd?t=1781614917"
+    },
+    {
+      "name": "MOONS UPDATE trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257140062/bd48c2ecc4da600e6ff4ea9298dea7d33dd68782/movie_600x337.jpg?t=1747666838",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1284190/980156711/5eb5146298eb91c4944c7c02c2312306ea5c7501/1750663186/dash_h264.mpd?t=1747666838"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1284190,
+    "store_url": "https://store.steampowered.com/app/1284190/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 96
+  }
+}

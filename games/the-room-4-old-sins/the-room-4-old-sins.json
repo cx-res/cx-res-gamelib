@@ -1,0 +1,141 @@
+{
+  "name": "the-room-4-old-sins",
+  "display_name": "The Room 4: Old Sins",
+  "app_type": "game",
+  "description": "The disappearance of an ambitious engineer and his high-society wife provokes a hunt for a precious artefact. The trail leads you to the attic of their home, and the discovery of an old, peculiar dollhouse. What secrets lie within these walls?",
+  "developers": [
+    "Fireproof Games"
+  ],
+  "publishers": [
+    "Fireproof Games"
+  ],
+  "franchise": "",
+  "release_date": "2021-02-11",
+  "website": "http://www.fireproofgames.com/",
+  "genres": [
+    "Adventure"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "spanish",
+    "russian",
+    "turkish",
+    "brazilian"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "OldSins.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Fireproof Studios/Old Sins",
+        "pattern": "*.save",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "The Room 4: Old Sins",
+    "OldSins"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1361320/6f0a9af10b1e25d058811efcced81120aaae71c8.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1361320/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_39131ac7ae78b629288737f1639b4068b917e582.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_13b8efd3ef1ddfecebe999b26d7e2c67b462cfc1.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_4dd6cb6eec23918b8431b253ce9aadc03c93465d.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_2bcc4ea13e46362b9c5115cadf2ad3f907a0d1ee.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_2f9ac2a6cf910e33fb0030edf15cd401bfaec3f6.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_209f24a22231591887a7608361bb00abb4c24cc4.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_4e3c5d940d4523d23930f6cc8052c77828f25fd7.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_8f3b0d4deb724fce47763d4ff461cf146c40de3b.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_d4e0d3588b43e3a0820e093129d96ad5e65316ac.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_09516f20007294cccba4a7f4d064d963045321b6.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_9ed67a92178366407c81d5be6491a37af0911975.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_aacb05293e409ee4a30a32002705b166956d82a8.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_001984c680861d83025730bee1a549a7ffe6c748.1920x1080.jpg?t=1646758366"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361320/ss_a82a615b99706e3c025a727745f3f342ee46ba76.1920x1080.jpg?t=1646758366"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Room 4: Old Sins",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256812366/movie.293x165.jpg?t=1613049908",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1361320/331527/9c842c555fb0b2aab61dc9f813109ef35f623920/1750677926/dash_h264.mpd?t=1613049908"
+    },
+    {
+      "name": "Comparison Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256817585/movie.293x165.jpg?t=1610365130",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1361320/339335/bc6417e443ca60293a57db93196f023201039e7e/1750677931/dash_h264.mpd?t=1610365130"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 1361320,
+    "store_url": "https://store.steampowered.com/app/1361320/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 98
+  }
+}

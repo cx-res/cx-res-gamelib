@@ -1,0 +1,290 @@
+{
+  "name": "kingdom-two-crowns",
+  "display_name": "Kingdom Two Crowns",
+  "app_type": "game",
+  "description": "Gather coins, build defenses and reclaim your fallen Kingdom. Explore and uncover secrets, unlock new technologies and protect your crown versus waves of Greed monsters that come at night. Kingdom is a solo or co-op micro-strategy and tower defense game set in an atmospheric pixel world.",
+  "developers": [
+    "Stumpy🐙Squid",
+    "Fury Studios",
+    "Coatsink"
+  ],
+  "publishers": [
+    "Raw Fury"
+  ],
+  "franchise": "",
+  "release_date": "2018-12-11",
+  "website": "http://www.kingdomthegame.com/",
+  "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos",
+    "linux"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "italian",
+    "koreana",
+    "spanish",
+    "schinese",
+    "tchinese",
+    "russian",
+    "japanese",
+    "brazilian"
+  ],
+  "name_localized": {
+    "schinese": "王国：两位君主"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "KingdomTwoCrowns.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.app",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.x86",
+        "description": "",
+        "type": "none"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "KingdomTwoCrowns.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.app",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.x86",
+        "description": "",
+        "type": "none"
+      }
+    ],
+    "linux": [
+      {
+        "executable": "KingdomTwoCrowns.exe",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.app",
+        "description": "",
+        "type": "none"
+      },
+      {
+        "executable": "KingdomTwoCrowns.x86",
+        "description": "",
+        "type": "none"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "nl.noio.kingdom-two-crowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "LinuxXdgConfigHome",
+        "path": "unity3d/noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Linux"
+        ],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "nl.noio.kingdom-two-crowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "LinuxXdgConfigHome",
+        "path": "unity3d/noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Linux"
+        ],
+        "recursive": true
+      }
+    ],
+    "linux": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "MacAppSupport",
+        "path": "nl.noio.kingdom-two-crowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "MacOS"
+        ],
+        "recursive": true
+      },
+      {
+        "root": "LinuxXdgConfigHome",
+        "path": "unity3d/noio/KingdomTwoCrowns/Release/",
+        "pattern": "*",
+        "platforms": [
+          "Linux"
+        ],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "Kingdom Two Crowns",
+    "KingdomTwoCrowns",
+    "KingdomTwoCrowns.app",
+    "KingdomTwoCrowns.x86",
+    "王国：两位君主"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/701160/7bf44c4e301a0f6fae78f697b39b5a1268223945.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/d72cfd4ce3ae1d24e54bf05d6255d56b6e20d5b5/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/a6b90c7c7f4c869587a8fa91234ae0367526567d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/9afd17844fc6b904ba198f45a6fd8db127f50c28/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/23352a7607613b33ba2bccd4f3d81b795bdcea3b/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/701160/cdbd8140830709ce98480b7ac5a165a6b600f037/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_ca9df45386d8ead4a0cf62a16c2524095a610f6c.1920x1080.jpg?t=1780992978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_fb33eeb33590f492c39c714fd673e059599895a5.1920x1080.jpg?t=1780992978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_7b16a9ab8f9498ec1a28507120ab3ae7eb7c7217.1920x1080.jpg?t=1780992978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_55d314b0e9f6f52a34d03a5851fedbf3f13b3ff8.1920x1080.jpg?t=1780992978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57/ss_1b1bdd1e3fc0b508cd3ef86dfc555bf520c5bf57.1920x1080.jpg?t=1780992978"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/ss_e5516ce05a5fdc5ea88e2342a568e8cc611269cd.1920x1080.jpg?t=1780992978"
+    }
+  ],
+  "videos": [
+    {
+      "name": "This is Kingdom Two Crowns",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257034147/movie.293x165.jpg?t=1729278935",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/719209/a62efca8d10612e7775d827a8b84a1e7a40387a0/1750572420/dash_h264.mpd?t=1729278935"
+    },
+    {
+      "name": "Kingdom Anniversary 2025 EN",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215471/d42727749dc717822a7857b7fc599f2d76ca05b0/movie_600x337.jpg?t=1760089069",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/1925882069/d34b6e6b9e14603480db3df2755595e4a6bc5254/1760083923/dash_h264.mpd?t=1760089069"
+    },
+    {
+      "name": "Olympian Trials",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257160614/6ee508d8e02676e784fce56c2507873e2dc0538b/movie_600x337.jpg?t=1750768651",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/99556008/839150ac51afe42774a059ef2e02f1d9d267dee4/1750758636/dash_h264.mpd?t=1750768651"
+    },
+    {
+      "name": "KTC: Call of Olympus - Launch trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062480/ee5c35994db0acacb14b324e632e67d10e2f04f2/movie_600x337.jpg?t=1729278931",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/767686/623fb3bfe7ca43cf451c28efc5ff4e48c7c49e7b/1750572488/dash_h264.mpd?t=1729278931"
+    },
+    {
+      "name": "KTC: Call of Olympus - Announcement",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257024475/movie.293x165.jpg?t=1729278951",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/702458/4028caa654b7ee12ec3a60ba9c903c83f2c20231/1750572333/dash_h264.mpd?t=1729278951"
+    },
+    {
+      "name": "Kingdom Two Crowns: Launch Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256737692/movie.293x165.jpg?t=1729278961",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/199558/abcb7a852d9899363bd1050e86d6f214d5e2d26b/1750572228/dash_h264.mpd?t=1729278961"
+    },
+    {
+      "name": "Kingdom Two Crowns: Challenge Islands",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256760548/movie.293x165.jpg?t=1729278977",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/701160/240624/f8019033ac1d4540b0316f1e6a28430f4c465df3/1750572296/dash_h264.mpd?t=1729278977"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 701160,
+    "store_url": "https://store.steampowered.com/app/701160/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "top_review_rank": 1,
+    "review_positive_percent": 90,
+    "review_total": 9906
+  }
+}

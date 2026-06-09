@@ -1,0 +1,122 @@
+{
+  "name": "tower-wizard",
+  "display_name": "Tower Wizard",
+  "app_type": "game",
+  "description": "Help a wizard build and upgrade a wizard tower in this incremental game! Use the tower to study magic, summon spirits, create buildings, and influence the world.",
+  "developers": [
+    "Barribob"
+  ],
+  "publishers": [
+    "Barribob"
+  ],
+  "franchise": "",
+  "release_date": "2025-06-19",
+  "website": "https://barribob.github.io/",
+  "genres": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "english",
+    "german",
+    "french",
+    "schinese",
+    "russian",
+    "japanese",
+    "brazilian",
+    "latam"
+  ],
+  "name_localized": {
+    "schinese": "摩天法师塔 Tower Wizard"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "Tower Wizard.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataRoaming",
+        "path": "Godot/app_userdata/Tower Wizard",
+        "pattern": "game.res",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "Tower Wizard",
+    "摩天法师塔 Tower Wizard"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3372980/e0f3d7710da35ac9aa8ad8759c950a3d218b5919.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3372980/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3372980/9f2524f672b683dbe2502edb6c1e67839569775d/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3372980/20cd6f406e2f2c895a8a6a362b394390661cac55/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3372980/31c6ee61febc976e495774aa0bf0da4722e448ed/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3372980/5d0a4ecc07486e15c9effe835346dc1c46cb4b16/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/838295d6f99d31f6212c3c8f1bcdb641deb30cce/ss_838295d6f99d31f6212c3c8f1bcdb641deb30cce.1920x1080.jpg?t=1779365676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/af2dd4d15d4c01dfe3109def76c9c3a1ba3e8880/ss_af2dd4d15d4c01dfe3109def76c9c3a1ba3e8880.1920x1080.jpg?t=1779365676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/bf701102258d1dede793d79a4dfb8d7213d3e865/ss_bf701102258d1dede793d79a4dfb8d7213d3e865.1920x1080.jpg?t=1779365676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/266f36e97349896caaf420f78347cee99bb1fecf/ss_266f36e97349896caaf420f78347cee99bb1fecf.1920x1080.jpg?t=1779365676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/b154dc19d94f1ecd4608b26ca4a7adb63a32ca96/ss_b154dc19d94f1ecd4608b26ca4a7adb63a32ca96.1920x1080.jpg?t=1779365676"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3372980/0541735b8f3b6cf13b613d1004f94a1c42b0c8c8/ss_0541735b8f3b6cf13b613d1004f94a1c42b0c8c8.1920x1080.jpg?t=1779365676"
+    }
+  ],
+  "videos": [
+    {
+      "name": "General Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257079637/1e49a5aec0db8f950cb2bede2ad160a5fe671d0a/movie_600x337.jpg?t=1733675083",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3372980/796142/cecfc0b25e7efbfc63098bf6d1eb8432adfcce7d/1750825773/dash_h264.mpd?t=1733675083"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3372980,
+    "store_url": "https://store.steampowered.com/app/3372980/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Adjustable Text Size",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Mouse Only Option",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "none",
+    "review_positive_percent": 96
+  }
+}

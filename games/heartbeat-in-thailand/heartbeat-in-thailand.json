@@ -1,0 +1,160 @@
+{
+  "name": "heartbeat-in-thailand",
+  "display_name": "Heartbeat in Thailand",
+  "app_type": "game",
+  "description": "Freshly graduated, you head to Bangkok’s Chinatown to find your uncle—only to lose contact. Seeking a steady job, you’re mistaken for a gang boss and thrown into chaos. Along the way, you meet a sweet cousin, cold widow, mysterious performer, quirky ghost, and even... someone unexpected.",
+  "developers": [
+    "RainbowGame"
+  ],
+  "publishers": [
+    "RainbowGame"
+  ],
+  "franchise": "",
+  "release_date": "2025-09-19",
+  "website": "",
+  "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "English",
+    "Russian",
+    "Indonesian",
+    "Japanese",
+    "Thai",
+    "Simplified Chinese*",
+    "Traditional Chinese*",
+    "Vietnamese",
+    "Korean*languages with full audio support"
+  ],
+  "name_localized": {
+    "english": "Heartbeat in Thailand",
+    "thai": "หัวใจเต้นในไทย",
+    "tchinese": "心跳大冒險：泰遇",
+    "indonesian": "Detak Jantung di Thailand",
+    "japanese": "タイでのときめき",
+    "koreana": "태국에서의 심장 박동",
+    "russian": "Сердцебиение в Таиланде",
+    "vietnamese": "Nhịp tim ở Thái Lan",
+    "schinese": "心跳大冒险：泰遇"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "TaiYu.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "TaiYu.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "TaiYu.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "TaiYu.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "/",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": false
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "/",
+        "pattern": "*.json",
+        "platforms": [],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "心跳大冒险：泰遇",
+    "TaiYu",
+    "TaiYu.app",
+    "Heartbeat in Thailand",
+    "หัวใจเต้นในไทย",
+    "心跳大冒險：泰遇",
+    "Detak Jantung di Thailand",
+    "タイでのときめき",
+    "태국에서의 심장 박동",
+    "Сердцебиение в Таиланде",
+    "Nhịp tim ở Thái Lan"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3446680/b62733e595e01bc288c0f50ebd8cd6c35c61aea2.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446680/57379e050e6f3d7c8a735c2e15cf2278be919a48/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446680/842589cf1dca4b87316ec90dbec9edd8440861fb/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446680/81134c346fed5f9f8d6550297d7ab2e93327780c/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446680/089b667eab07c370fba006496c413f63f868d689/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3446680/280d6f85588b7ac348c2e16a2769ee71f4aaa777/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446680/030441cbc03c6f8d7956495a0b496f7b4d2a4e28/ss_030441cbc03c6f8d7956495a0b496f7b4d2a4e28.1920x1080.jpg?t=1761121285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446680/92a5c521b994e1b7dab4ebebfd2044fdcbf4d532/ss_92a5c521b994e1b7dab4ebebfd2044fdcbf4d532.1920x1080.jpg?t=1761121285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446680/13f8a7ab8d7385723fbcc2b4599666f22b924378/ss_13f8a7ab8d7385723fbcc2b4599666f22b924378.1920x1080.jpg?t=1761121285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446680/3a46992a01b87d66307c4142f597fc2f0fbec3f9/ss_3a46992a01b87d66307c4142f597fc2f0fbec3f9.1920x1080.jpg?t=1761121285"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446680/6ea8967b447f954e68afb9e27ca6a874fcc29299/ss_6ea8967b447f954e68afb9e27ca6a874fcc29299.1920x1080.jpg?t=1761121285"
+    }
+  ],
+  "videos": [
+    {
+      "name": "心跳大冒险：泰遇 预告片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257172422/90e6c1d76d1fd66c52055cf9cd42085226eab115/movie_600x337.jpg?t=1756170488",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3446680/579899055/6a992d537add4f074b817ea7366c74f0564cff67/1756105188/dash_h264.mpd?t=1756170488"
+    },
+    {
+      "name": "心跳大冒险：泰遇-预告片",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257194109/5794768d5e61a82a5801f5981af24cced7e73cb5/movie_600x337.jpg?t=1757220051",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3446680/1888824389/184b31c98a28503e9defffb351584909efd4e21e/1757216834/dash_h264.mpd?t=1757220051"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3446680,
+    "store_url": "https://store.steampowered.com/app/3446680/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Steam Cloud"
+    ],
+    "supports_cloud": true,
+    "supports_workshop": false,
+    "supports_family_sharing": false,
+    "controller_support": "none",
+    "review_positive_percent": 97
+  }
+}

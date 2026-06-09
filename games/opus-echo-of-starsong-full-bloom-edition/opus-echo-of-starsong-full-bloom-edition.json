@@ -1,0 +1,176 @@
+{
+  "name": "opus-echo-of-starsong-full-bloom-edition",
+  "display_name": "OPUS: Echo of Starsong - Full Bloom Edition",
+  "app_type": "game",
+  "description": "Echo of Starsong is a visual novel style adventure game. Eda, a girl who can hear mysterious sound waves known as starsong, crosses paths with a young man in search of their source. Together, they venture out to the heart of space to unravel an ancient myth.",
+  "developers": [
+    "SIGONO INC."
+  ],
+  "publishers": [
+    "SIGONO INC."
+  ],
+  "franchise": "",
+  "release_date": "2021-09-01",
+  "website": "",
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "supported_platforms": [
+    "windows",
+    "macos"
+  ],
+  "supported_languages": [
+    "english",
+    "schinese",
+    "tchinese",
+    "japanese"
+  ],
+  "name_localized": {
+    "tchinese": "OPUS：龍脈常歌 -最終版-",
+    "schinese": "OPUS：龙脉常歌 -最终版-",
+    "japanese": "OPUS 星歌の響き -Full Bloom Edition-"
+  },
+  "launch": {
+    "windows": [
+      {
+        "executable": "OPUS Echo of Starsong.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OPUS Echo of Starsong.app",
+        "description": "",
+        "type": "default"
+      }
+    ],
+    "macos": [
+      {
+        "executable": "OPUS Echo of Starsong.exe",
+        "description": "",
+        "type": "default"
+      },
+      {
+        "executable": "OPUS Echo of Starsong.app",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "SIGONO/OPUS_ Echo of Starsong",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ],
+    "macos": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "SIGONO/OPUS_ Echo of Starsong",
+        "pattern": "*",
+        "platforms": [],
+        "recursive": true
+      }
+    ]
+  },
+  "search_terms": [
+    "OPUS: Echo of Starsong - Full Bloom Edition",
+    "OPUS Echo of Starsong",
+    "OPUS Echo of Starsong.app",
+    "OPUS：龍脈常歌 -最終版-",
+    "OPUS：龙脉常歌 -最终版-",
+    "OPUS 星歌の響き -Full Bloom Edition-"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1504500/c40b9a17bfcbfda679eecc39cba8513182f4ce58.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504500/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504500/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504500/library_600x900.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504500/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1504500/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_140e83c94c35b9ad5bdb8486d64a1eacbbc8a0b0.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_a1fa8e8dccc476cae5adaae9f8b10cf7477db096.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_e88f450f3bbeff99e415cac554cd89b9c82ec991.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_73c54fe47148718b29d4b4838548b9ef7b097d55.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_674844bb4071f2ae59f5b950793e5ad9e7d97577.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_2a048928c34899c963f097579f8213a018d8da53.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_fa76e4fb8353b1b11018785fe937ace984850155.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_824e83c713fe34d48108912e256741b18bbdaf3b.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_b5fc6927a9fc4646a6f53e19851febf09e998793.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_4f28b734670ea637f8021b187fc144295cc9b230.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_0920d050ca6b3bfdd6d161f22e26ec82f25b65d1.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_b3e844f5b0696d98afa859d1bdb060578ee02c47.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_bbc2449b881d549ec4e1fbbcf756ffb2a35708c8.1920x1080.jpg?t=1774866637"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1504500/ss_faae4d8de747dc961ca767ff0a02895839d9a1f6.1920x1080.jpg?t=1774866637"
+    }
+  ],
+  "videos": [
+    {
+      "name": "OPUS: Echo of Starsong - Launch Trailer - Available Now!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256887424/movie.293x165.jpg?t=1684903877",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1504500/464551/8dc9db2283be45cabbd5ca3042d678168064c9c9/1750996364/dash_h264.mpd?t=1684903877"
+    },
+    {
+      "name": "OPUS: Echo of Starsong - Gameplay Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256844428/movie.293x165.jpg?t=1684903894",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/1504500/388336/883418d1a9973a71fe43c1cc49e84505685e3633/1750996353/dash_h264.mpd?t=1684903894"
+    }
+  ],
+  "metacritic": {
+    "score": 90,
+    "url": "https://www.metacritic.com/game/pc/opus-echo-of-starsong?ftag=MCD-06-10aaa1f"
+  },
+  "steam": {
+    "appid": 1504500,
+    "store_url": "https://store.steampowered.com/app/1504500/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 96
+  }
+}

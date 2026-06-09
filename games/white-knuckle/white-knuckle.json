@@ -1,0 +1,215 @@
+{
+  "name": "white-knuckle",
+  "display_name": "White Knuckle",
+  "app_type": "game",
+  "description": "White Knuckle is a first-person roguelite speed-climbing game. Ascend through the guts of SUB-STRUCTURE 17 using precision movement mechanics. Sharp reflexes and resource management will bring you out from under ten thousand meters of concrete and decay.",
+  "developers": [
+    "Dark Machine Games"
+  ],
+  "publishers": [
+    "DreadXP"
+  ],
+  "franchise": "",
+  "release_date": "2025-04-18",
+  "website": "https://whiteknuckle.net/",
+  "genres": [
+    "Early Access"
+  ],
+  "supported_platforms": [
+    "windows"
+  ],
+  "supported_languages": [
+    "English**languages with full audio support"
+  ],
+  "name_localized": {},
+  "launch": {
+    "windows": [
+      {
+        "executable": "White Knuckle.exe",
+        "description": "",
+        "type": "default"
+      }
+    ]
+  },
+  "savefiles": {
+    "windows": [
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Dark Machine/White Knuckle/",
+        "pattern": "save.json",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Dark Machine/White Knuckle/",
+        "pattern": "save-backup.json",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Dark Machine/White Knuckle/",
+        "pattern": "wk_save.json",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      },
+      {
+        "root": "WinAppDataLocalLow",
+        "path": "Dark Machine/White Knuckle/Sessions/",
+        "pattern": "*.session",
+        "platforms": [
+          "Windows"
+        ],
+        "recursive": false
+      }
+    ]
+  },
+  "search_terms": [
+    "White Knuckle"
+  ],
+  "assets": {
+    "icon_32x32_url": "https://shared.fastly.steamstatic.com/community_assets/images/apps/3195790/25c0696cd09dbc9d202b03b53f03c17566f3e190.jpg",
+    "header_460x215_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/header.jpg",
+    "capsule_231x87_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/1be6d3187d7f5205243c1f7172354db4d219f4a6/capsule_231x87.jpg",
+    "capsule_300x450_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/5e19754fe7b1ea06883e4463d1d3844e8ddc5f73/library_capsule.jpg",
+    "hero_1920x620_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/405b232338cc34d1faaa0938270b161632bddb54/library_hero.jpg",
+    "logo_640x324_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3195790/logo.png"
+  },
+  "screenshots": [
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/5eddf782b0fc49e4b4bd7b5232845822a9483b43/ss_5eddf782b0fc49e4b4bd7b5232845822a9483b43.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/e28625634af5e353191aba4efcc3c3783ae560a8/ss_e28625634af5e353191aba4efcc3c3783ae560a8.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/b0cec802555eda147d2ddc8e3be6ac035d3407d3/ss_b0cec802555eda147d2ddc8e3be6ac035d3407d3.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_e2ee07cb66c9d4b3177070fa39f624decc7fb53e.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/0bd1ca5949fe257894889073abfd706d58c8fc37/ss_0bd1ca5949fe257894889073abfd706d58c8fc37.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ef882810836c4b337b063fb59e65c019baa0ff4f/ss_ef882810836c4b337b063fb59e65c019baa0ff4f.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_25dfed3dba5cbda4823d2714251cca262f945c84.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ba234e42679859c74990d882ff7ec52b33f4e0a5/ss_ba234e42679859c74990d882ff7ec52b33f4e0a5.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_71c950994733b96f1f748298717a486b328cbaed.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/b66113bed2f12050066c5d437f0fda422cb67d94/ss_b66113bed2f12050066c5d437f0fda422cb67d94.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_23da73da511489264b7fae46b20a145ff1c8fe9f.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/e9c7acac7e3d0ebc7b623177c3e041aaa7f96638/ss_e9c7acac7e3d0ebc7b623177c3e041aaa7f96638.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/d7004cd7a579959533bf7d2fc18282afccad7951/ss_d7004cd7a579959533bf7d2fc18282afccad7951.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_1a3d78d6c1434d1ede787bb7bcc89cacc5616e53.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_a5304631dbe7663415cf96cbda97cfdf5827e7bb.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/fcc890f1bcec242b14678175588663e0d16d4f8d/ss_fcc890f1bcec242b14678175588663e0d16d4f8d.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_bee30276e77c834d0bd8dc9032359ec4f2da0dcd.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_0a203529b21de106ce1d01bfb6de0b24b882447d.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_845972f924d98a7984b6a306b53bbdbc57930789.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/e97cf3184a6fcf944bd88db995166268a5f2ccb1/ss_e97cf3184a6fcf944bd88db995166268a5f2ccb1.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_e36f1e9afdbb1870e2b936e1d283eb99e2bb4437.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_283c54bbd3b618a071312c482984ef095fe4b9d3.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_0be1097a1436220f3fb54e04a3d8251d726d8e0e.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_fb1cdd746842de9528ceabae4308c5b8352731f6.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/ss_a1d11ab2a36f9a099e52eb5dbb5b0473b058880d.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/862f40270a00941bb645b88cbfd339b6038b52e3/ss_862f40270a00941bb645b88cbfd339b6038b52e3.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/063d327c8eb5308d8d84525be651c89fffc459c7/ss_063d327c8eb5308d8d84525be651c89fffc459c7.1920x1080.jpg?t=1782400682"
+    },
+    {
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195790/da57a4dbe5d3641119e04396b8344132cae8077c/ss_da57a4dbe5d3641119e04396b8344132cae8077c.1920x1080.jpg?t=1782400682"
+    }
+  ],
+  "videos": [
+    {
+      "name": "The Nest Update Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257364888/6b63b4ff1416c30a4dec64f82c11d673bf2ee38a/movie_600x337.jpg?t=1782400681",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3195790/2089247608/9e52fc037ab29b8557b95165d31e9b03cc2bf8ba/1782311030/dash_h264.mpd?t=1782400681"
+    },
+    {
+      "name": "The Abyss Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257198156/15da5af93bb241713b3ffd60165cf650d643eb2a/movie_600x337.jpg?t=1765907971",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3195790/1140507236/689b1e7f2b125727f52a318e583f0a47ebe3f242/1757952320/dash_h264.mpd?t=1765907971"
+    },
+    {
+      "name": "White Knuckle - Gameplay",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257067915/a21db2e1314bf156b082e0ea8da0d857dd96f34d/movie_600x337.jpg?t=1729772848",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3195790/776377/47dec251d7274bc4eec07d98b03d3635561ea302/1750824700/dash_h264.mpd?t=1729772848"
+    },
+    {
+      "name": "EA Release Date Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118062/46c00f49e1c1717b595c97a6be9432b283ab1acf/movie_600x337.jpg?t=1743012723",
+      "url": "https://video.akamai.steamstatic.com/store_trailers/3195790/856919/33b42613ad77efc59a79e1ae9660702ca486c4f0/1750824702/dash_h264.mpd?t=1743012723"
+    }
+  ],
+  "metacritic": null,
+  "steam": {
+    "appid": 3195790,
+    "store_url": "https://store.steampowered.com/app/3195790/",
+    "required_age": 0,
+    "is_free": false,
+    "categories": [
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "DualShock Controller Support",
+      "Family Sharing"
+    ],
+    "supports_cloud": false,
+    "supports_workshop": false,
+    "supports_family_sharing": true,
+    "controller_support": "full",
+    "review_positive_percent": 98
+  }
+}
